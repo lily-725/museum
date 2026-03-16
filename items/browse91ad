@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>./items/browse?tags=%E6%9E%95%E6%B2%B3%E8%80%8C%E5%B1%85%EF%BC%9A%E5%AF%BA%E5%9D%8A%E5%91%A8%E8%BE%B9%E7%9A%84%E5%AE%B6%E5%9B%AD%E4%B8%8E%E7%83%9F%E7%81%AB&amp;page=4&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:37:47+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="./items/browse?tags=%E6%9E%95%E6%B2%B3%E8%80%8C%E5%B1%85%EF%BC%9A%E5%AF%BA%E5%9D%8A%E5%91%A8%E8%BE%B9%E7%9A%84%E5%AE%B6%E5%9B%AD%E4%B8%8E%E7%83%9F%E7%81%AB&amp;page=4&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="./items/browse/page/1?tags=%E6%9E%95%E6%B2%B3%E8%80%8C%E5%B1%85%EF%BC%9A%E5%AF%BA%E5%9D%8A%E5%91%A8%E8%BE%B9%E7%9A%84%E5%AE%B6%E5%9B%AD%E4%B8%8E%E7%83%9F%E7%81%AB&amp;page=4&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="./items/browse/page/3?tags=%E6%9E%95%E6%B2%B3%E8%80%8C%E5%B1%85%EF%BC%9A%E5%AF%BA%E5%9D%8A%E5%91%A8%E8%BE%B9%E7%9A%84%E5%AE%B6%E5%9B%AD%E4%B8%8E%E7%83%9F%E7%81%AB&amp;page=4&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="./items/browse/page/4?tags=%E6%9E%95%E6%B2%B3%E8%80%8C%E5%B1%85%EF%BC%9A%E5%AF%BA%E5%9D%8A%E5%91%A8%E8%BE%B9%E7%9A%84%E5%AE%B6%E5%9B%AD%E4%B8%8E%E7%83%9F%E7%81%AB&amp;page=4&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <entry>
+    <id>./items/show/377</id>
+    <title><![CDATA[部分胡同所在位置平面图]]></title>
+    <summary><![CDATA[天穆的聚落形态逐渐以寺坊爲中心向外层层展，也因之历史地形成了我国穆斯林围寺而居、依坊经商的分布格局。               村内里巷交错，胡同相接。穆庄子有两条东西向大街，即清真寺大街和天穆大街。从清真寺向东、南、西辐射出16条胡同，以乐善胡同爲中心，向东有平安、维善、敬善、德善、东小道5条胡同。向东向西有育德、明德、维新、育才、保和、义学、培养、单街子、新村9条胡同。寺前还有德盛胡同。天齐庙则有两条南北向大街，即天齐庙大街和东堤大街，包括10余条胡同，即穆家胡同、于家胡同、茶铺胡同、西坑沿、王家台、东堤大街、张家胡同、杨家胡同、寺前胡同和寺后胡同等。]]></summary>
+    <updated>2026-02-05T16:21:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/377"/>
+    <link rel="enclosure" href="./files/original/980671995a3054336dacf31eb1608a5e.png" type="image/png" length="1088642"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <category term="胡同文化：街巷之间的日常"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">部分胡同所在位置平面图</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">天穆的聚落形态逐渐以寺坊爲中心向外层层展，也因之历史地形成了我国穆斯林围寺而居、依坊经商的分布格局。               村内里巷交错，胡同相接。穆庄子有两条东西向大街，即清真寺大街和天穆大街。从清真寺向东、南、西辐射出16条胡同，以乐善胡同爲中心，向东有平安、维善、敬善、德善、东小道5条胡同。向东向西有育德、明德、维新、育才、保和、义学、培养、单街子、新村9条胡同。寺前还有德盛胡同。天齐庙则有两条南北向大街，即天齐庙大街和东堤大街，包括10余条胡同，即穆家胡同、于家胡同、茶铺胡同、西坑沿、王家台、东堤大街、张家胡同、杨家胡同、寺前胡同和寺后胡同等。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">村民穆瑞信手绘</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">胡同文化：街巷之间的日常</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>./items/show/384</id>
+    <title><![CDATA[门楣杜哇]]></title>
+    <summary><![CDATA[“杜哇”，是阿拉伯语音译，意为“祈祷”。经文杜哇就是阿拉伯文的祈祷，在回族穆斯林家庭和清真饭店的门楣上都书写或悬挂张贴着一段经文杜哇。图示分别爲花体和正常体的阿拉伯文门楣杜哇，花体的门楣杜哇因似花画而不易被看出是经文，在“宗教改革”和“文化大革命”时期未因宗教原因受损毁。]]></summary>
+    <updated>2026-02-05T16:21:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/384"/>
+    <link rel="enclosure" href="./files/original/8f89244da7784195ac9d3fe587d9312f.png" type="image/png" length="523081"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <category term="胡同文化：街巷之间的日常"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">门楣杜哇</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">“杜哇”，是阿拉伯语音译，意为“祈祷”。经文杜哇就是阿拉伯文的祈祷，在回族穆斯林家庭和清真饭店的门楣上都书写或悬挂张贴着一段经文杜哇。图示分别爲花体和正常体的阿拉伯文门楣杜哇，花体的门楣杜哇因似花画而不易被看出是经文，在“宗教改革”和“文化大革命”时期未因宗教原因受损毁。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">收藏在村民黑俊志家中</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">胡同文化：街巷之间的日常</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="./items/show/451">
+<dc:title>《为设立船运保险公司每年交公款等事致天津商务总会的呈》</dc:title>
+<dc:source>天津市档案馆藏，401206800-J0128-2-002028-004；</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/452">
+<dc:title>《为设立顺直属通利河运公司事给天津市商务总会的咨》</dc:title>
+<dc:source>天津市档案馆藏，401206800-J0128-2-001657-014</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/523">
+<dc:title>《津门保甲图说》中的天穆村地理位置</dc:title>
+<dc:source>《津门保甲图说》清道光二十六年刻本</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/524">
+<dc:title>《津门保甲图说》相关记载</dc:title>
+<dc:source>《津门保甲图说》清道光二十六年刻本</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/450">
+<dc:title>勒子（用于船上、车上剎紧货物的工具）</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第142页。</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/448">
+<dc:title>渔船图示</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，中国文化出版社2025年版，第137-138、142页。</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/447">
+<dc:title>漕船图示</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，中国文化出版社2025年版，第137-138、142页。</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/449">
+<dc:title>起帆滑轮</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第142页。</dc:source>
+</rdf:Description></rdf:RDF>

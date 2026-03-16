@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>./items/browse?tags=%E5%8D%97%E5%8C%97%E4%BA%8C%E5%AF%BA%EF%BC%9A%E5%A4%A9%E7%A9%86%E6%9D%91%E7%9A%84%E4%BF%A1%E4%BB%B0%E7%A9%BA%E9%97%B4&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:27:16+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="./items/browse?tags=%E5%8D%97%E5%8C%97%E4%BA%8C%E5%AF%BA%EF%BC%9A%E5%A4%A9%E7%A9%86%E6%9D%91%E7%9A%84%E4%BF%A1%E4%BB%B0%E7%A9%BA%E9%97%B4&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="./items/browse/page/1?tags=%E5%8D%97%E5%8C%97%E4%BA%8C%E5%AF%BA%EF%BC%9A%E5%A4%A9%E7%A9%86%E6%9D%91%E7%9A%84%E4%BF%A1%E4%BB%B0%E7%A9%BA%E9%97%B4&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="./items/browse/page/1?tags=%E5%8D%97%E5%8C%97%E4%BA%8C%E5%AF%BA%EF%BC%9A%E5%A4%A9%E7%A9%86%E6%9D%91%E7%9A%84%E4%BF%A1%E4%BB%B0%E7%A9%BA%E9%97%B4&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="./items/browse/page/2?tags=%E5%8D%97%E5%8C%97%E4%BA%8C%E5%AF%BA%EF%BC%9A%E5%A4%A9%E7%A9%86%E6%9D%91%E7%9A%84%E4%BF%A1%E4%BB%B0%E7%A9%BA%E9%97%B4&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom"/>
+  <entry>
+    <id>./items/show/366</id>
+    <title><![CDATA[1930年代翻建重修的穆家庄回教礼拜寺，又名天穆清真北寺，保留了明清建筑风格，图爲南北讲堂、对厅、三门]]></title>
+    <summary><![CDATA[建村之后，清真寺也随之兴建与扩建。清真寺作爲伊斯兰文化的有形载体，不仅是穆斯林宗教生活的核心，也是伊斯兰文化、经济和教育中心，还是千百年来伊斯兰教在中国兴衰的见证。清真北寺由穆重和父子建于明永乐二年(1404)，爲天津市最早的清真寺。清雍正十三年(1735)、嘉庆十年(1805)、1931年、1949年至1951年、1979年和1992年至1994年先后重修(建)。现有宝剎、前后中殿及配殿、沐浴房、门楼及望月楼，占地 4967 平方米，建筑面积1500平方米，大殿爲明清宫殿风格，木结构，可容纳千人聚礼。该寺侧院有清真女殿，张清元建于1931年。1948年12月5日，国民党六十二军以清除射界爲名，将天齐庙村、穆家庄及城郊13个村庄烧燬。天津解放后重建。1966年“文化大革命”期间水房改爲尺厂、大殿作爲生产车间，1976年唐山大地震时后殿受损。1997年，被评爲市级模范清真寺。2007年后随着天穆旧村改造，重建清真寺。]]></summary>
+    <updated>2026-02-05T16:21:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/366"/>
+    <link rel="enclosure" href="./files/original/d12256cf26877b63958641ff192a96e9.png" type="image/png" length="790161"/>
+    <category term="南北二寺：天穆村的信仰空间"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">1930年代翻建重修的穆家庄回教礼拜寺，又名天穆清真北寺，保留了明清建筑风格，图爲南北讲堂、对厅、三门</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">建村之后，清真寺也随之兴建与扩建。清真寺作爲伊斯兰文化的有形载体，不仅是穆斯林宗教生活的核心，也是伊斯兰文化、经济和教育中心，还是千百年来伊斯兰教在中国兴衰的见证。清真北寺由穆重和父子建于明永乐二年(1404)，爲天津市最早的清真寺。清雍正十三年(1735)、嘉庆十年(1805)、1931年、1949年至1951年、1979年和1992年至1994年先后重修(建)。现有宝剎、前后中殿及配殿、沐浴房、门楼及望月楼，占地 4967 平方米，建筑面积1500平方米，大殿爲明清宫殿风格，木结构，可容纳千人聚礼。该寺侧院有清真女殿，张清元建于1931年。1948年12月5日，国民党六十二军以清除射界爲名，将天齐庙村、穆家庄及城郊13个村庄烧燬。天津解放后重建。1966年“文化大革命”期间水房改爲尺厂、大殿作爲生产车间，1976年唐山大地震时后殿受损。1997年，被评爲市级模范清真寺。2007年后随着天穆旧村改造，重建清真寺。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">村民刘玉森保存</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">南北二寺：天穆村的信仰空间</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>./items/show/365</id>
+    <title><![CDATA[穆家庄少年儿童在穆家庄回教礼拜寺前合影。]]></title>
+    <summary><![CDATA[建村之后，清真寺也随之兴建与扩建。清真寺作爲伊斯兰文化的有形载体，不仅是穆斯林宗教生活的核心，也是伊斯兰文化、经济和教育中心，还是千百年来伊斯兰教在中国兴衰的见证。清真北寺由穆重和父子建于明永乐二年(1404)，爲天津市最早的清真寺。清雍正十三年(1735)、嘉庆十年(1805)、1931年、1949年至1951年、1979年和1992年至1994年先后重修(建)。现有宝剎、前后中殿及配殿、沐浴房、门楼及望月楼，占地 4967 平方米，建筑面积1500平方米，大殿爲明清宫殿风格，木结构，可容纳千人聚礼。该寺侧院有清真女殿，张清元建于1931年。1948年12月25日，国民党六十二军以清除射界爲名，将天齐庙村、穆家庄及城郊13个村庄烧燬。天津解放后重建。1966年“文化大革命”期间水房改爲尺厂、大殿作爲生产车间，1976年唐山大地震时后殿受损。1997年，被评爲市级模范清真寺。2007年后随着天穆旧村改造，重建清真寺。]]></summary>
+    <updated>2026-02-06T21:56:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/365"/>
+    <link rel="enclosure" href="./files/original/3dbec93eba2b182ccf9ed71f08dec4bc.png" type="image/png" length="553755"/>
+    <category term="南北二寺：天穆村的信仰空间"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">穆家庄少年儿童在穆家庄回教礼拜寺前合影。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">建村之后，清真寺也随之兴建与扩建。清真寺作爲伊斯兰文化的有形载体，不仅是穆斯林宗教生活的核心，也是伊斯兰文化、经济和教育中心，还是千百年来伊斯兰教在中国兴衰的见证。清真北寺由穆重和父子建于明永乐二年(1404)，爲天津市最早的清真寺。清雍正十三年(1735)、嘉庆十年(1805)、1931年、1949年至1951年、1979年和1992年至1994年先后重修(建)。现有宝剎、前后中殿及配殿、沐浴房、门楼及望月楼，占地 4967 平方米，建筑面积1500平方米，大殿爲明清宫殿风格，木结构，可容纳千人聚礼。该寺侧院有清真女殿，张清元建于1931年。1948年12月25日，国民党六十二军以清除射界爲名，将天齐庙村、穆家庄及城郊13个村庄烧燬。天津解放后重建。1966年“文化大革命”期间水房改爲尺厂、大殿作爲生产车间，1976年唐山大地震时后殿受损。1997年，被评爲市级模范清真寺。2007年后随着天穆旧村改造，重建清真寺。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">村民刘玉森保存</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">南北二寺：天穆村的信仰空间</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

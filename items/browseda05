@@ -1,0 +1,49 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="./items/show/454">
+<dc:title>马车拉货图示</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第138页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/453">
+<dc:title>马拉轿车</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第138页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/452">
+<dc:title>《为设立顺直属通利河运公司事给天津市商务总会的咨》</dc:title>
+<dc:source>天津市档案馆藏，401206800-J0128-2-001657-014</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/451">
+<dc:title>《为设立船运保险公司每年交公款等事致天津商务总会的呈》</dc:title>
+<dc:source>天津市档案馆藏，401206800-J0128-2-002028-004；</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/450">
+<dc:title>勒子（用于船上、车上剎紧货物的工具）</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第142页。</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/449">
+<dc:title>起帆滑轮</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第142页。</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/448">
+<dc:title>渔船图示</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，中国文化出版社2025年版，第137-138、142页。</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/447">
+<dc:title>漕船图示</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，中国文化出版社2025年版，第137-138、142页。</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/389">
+<dc:title>北寺居委会社区活动</dc:title>
+<dc:subject>城中村改造：从传统村落到都市社区的重生</dc:subject>
+<dc:description>旧村改造至今仍在进行中，尚未搬迁的村民在北寺居委会参加活动。</dc:description>
+<dc:source>2023年实地调研时所拍</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/388">
+<dc:title>城中村天穆改造工程户型设计图</dc:title>
+<dc:subject>城中村改造：从传统村落到都市社区的重生</dc:subject>
+<dc:description>2008年，天津市啓动环内旧村改造，天穆村民多迁至新建小区天穆东苑，原有的基于族群认同和血缘认同的居住格局被打破，高楼林立的民族社区逐渐替代了挨家挨户的乡村平房，胡同文化逐渐消逝。新的住宅区不断吸纳回族与外来居民，形成开放而多元的新社区。自2016年村委会换届以来，村委会与居委会互不隶属，形成了相对独立的管理和运作结构，“村带街”模式被打破。村委会负责管理村中的农民，而居委会则负责城市社区的居民事务。</dc:description>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第29-30页。</dc:source>
+</rdf:Description></rdf:RDF>

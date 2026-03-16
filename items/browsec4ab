@@ -1,0 +1,45 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="./items/show/454">
+<dc:title>马车拉货图示</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第138页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/455">
+<dc:title>大车门图示</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第98页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/456">
+<dc:title>马鞭</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/457">
+<dc:title>笼头夹板</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/458">
+<dc:title>马绊</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/459">
+<dc:title>软笼头</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/460">
+<dc:title>链嚼</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/461">
+<dc:title>马铃</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/462">
+<dc:title>天穆马车队社员合影</dc:title>
+<dc:source>马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，中国文化出版社2017年版，第145页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="./items/show/463">
+<dc:title>自行车载卖羊肉箱子</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第142、148页</dc:source>
+</rdf:Description></rdf:RDF>

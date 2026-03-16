@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+    <link>./items/browse?tags=%E6%9E%95%E6%B2%B3%E8%80%8C%E5%B1%85%EF%BC%9A%E5%AF%BA%E5%9D%8A%E5%91%A8%E8%BE%B9%E7%9A%84%E5%AE%B6%E5%9B%AD%E4%B8%8E%E7%83%9F%E7%81%AB&amp;page=4&amp;sort_field=added&amp;sort_dir=a&amp;output=rss2</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Mon, 16 Mar 2026 19:38:10 +0800</pubDate>
+    <managingEditor>2510844725@qq.com (泊岸·生根——天穆六百年)</managingEditor>
+    <generator>Zend_Feed</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[城中村天穆改造工程户型设计图]]></title>
+      <link>./items/show/388</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">城中村天穆改造工程户型设计图</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">2008年，天津市啓动环内旧村改造，天穆村民多迁至新建小区天穆东苑，原有的基于族群认同和血缘认同的居住格局被打破，高楼林立的民族社区逐渐替代了挨家挨户的乡村平房，胡同文化逐渐消逝。新的住宅区不断吸纳回族与外来居民，形成开放而多元的新社区。自2016年村委会换届以来，村委会与居委会互不隶属，形成了相对独立的管理和运作结构，“村带街”模式被打破。村委会负责管理村中的农民，而居委会则负责城市社区的居民事务。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第29-30页。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">城中村改造：从传统村落到都市社区的重生</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="./files/original/69bace7a67a5203b3798d896c3fb9e26.png"><img class="thumb" src="./files/square_thumbnails/69bace7a67a5203b3798d896c3fb9e26.jpg" alt=""></a></div>]]></description>
+      <pubDate>Thu, 05 Feb 2026 16:21:32 +0800</pubDate>
+      <enclosure url="./files/fullsize/69bace7a67a5203b3798d896c3fb9e26.jpg" type="image/png" length="1860534"/>
+    </item>
+    <item>
+      <title><![CDATA[北寺居委会社区活动]]></title>
+      <link>./items/show/389</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">北寺居委会社区活动</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">旧村改造至今仍在进行中，尚未搬迁的村民在北寺居委会参加活动。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">2023年实地调研时所拍</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">城中村改造：从传统村落到都市社区的重生</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="./files/original/4a45e428256924984be8ea56c9eb0139.png"><img class="thumb" src="./files/square_thumbnails/4a45e428256924984be8ea56c9eb0139.jpg" alt=""></a></div>]]></description>
+      <pubDate>Thu, 05 Feb 2026 16:21:33 +0800</pubDate>
+      <enclosure url="./files/fullsize/4a45e428256924984be8ea56c9eb0139.jpg" type="image/png" length="993675"/>
+    </item>
+  </channel>
+</rss>

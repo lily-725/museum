@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+    <link>./items/browse?page=12&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=rss2</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Mon, 16 Mar 2026 19:51:37 +0800</pubDate>
+    <managingEditor>2510844725@qq.com (泊岸·生根——天穆六百年)</managingEditor>
+    <generator>Zend_Feed</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[“铁驴”自行车]]></title>
+      <link>./items/show/469</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">“铁驴”自行车</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第148页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="./files/original/f62e6d6b4ad32f99188c716e7600da8e.png"><img class="thumb" src="./files/square_thumbnails/f62e6d6b4ad32f99188c716e7600da8e.jpg" alt=""></a></div>]]></description>
+      <pubDate>Thu, 05 Feb 2026 21:32:52 +0800</pubDate>
+      <enclosure url="./files/fullsize/f62e6d6b4ad32f99188c716e7600da8e.jpg" type="image/png" length="348938"/>
+    </item>
+  </channel>
+</rss>

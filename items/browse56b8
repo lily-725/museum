@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>./items/browse?page=6&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:44:43+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="./items/browse?page=6&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="./items/browse/page/1?page=6&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="./items/browse/page/5?page=6&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="./items/browse/page/7?page=6&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="./items/browse/page/12?page=6&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <entry>
+    <id>./items/show/501</id>
+    <title><![CDATA[天穆小学]]></title>
+    <updated>2026-02-05T21:33:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/501"/>
+    <link rel="enclosure" href="./files/original/566f25c5a0a5fae6b850ed22b058c3a4.png" type="image/png" length="885879"/>
+    <category term="新学育人：从小学到职校"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆小学</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">2023年实地调研时所拍</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>./items/show/502</id>
+    <title><![CDATA[天穆小学历任校长]]></title>
+    <updated>2026-02-05T21:33:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/502"/>
+    <link rel="enclosure" href="./files/original/5c07b2174d6a1dbfa034db560298f3d7.png" type="image/png" length="225959"/>
+    <category term="新学育人：从小学到职校"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆小学历任校长</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">天穆小学校史馆</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>./items/show/503</id>
+    <title><![CDATA[天穆小学附属幼儿园]]></title>
+    <updated>2026-02-05T21:33:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/503"/>
+    <link rel="enclosure" href="./files/original/e4ca8a2ce1f231d572a6bb0447376972.png" type="image/png" length="315316"/>
+    <category term="新学育人：从小学到职校"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆小学附属幼儿园</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">2023年实地调研时所拍</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>./items/show/360</id>
+    <title><![CDATA[天穆村穆瑞敬展示新修《穆氏族谱》]]></title>
+    <summary><![CDATA[穆姓作为天穆村的第一大姓，最早能追溯到明朝初年锦衣卫穆天庆，穆天庆有五个儿子，在燕王靖难后由南京迁来北京、河北一带，五兄弟分散定居，老二穆重和落居在天津城十二里处穆家庄，成为如今天穆穆氏一世祖。穆重和育有二子：穆太、穆能，从第三代开始依照“玉枝英世仲，应思景从国朝兴，文成祥瑞怀德生”的字辈依次排辈，字辈排完后需重新接续，目前已接续“孝友为本伦常序，诗礼传家祖训良”字辈。]]></summary>
+    <updated>2026-02-06T18:57:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/360"/>
+    <link rel="enclosure" href="./files/original/b19c646ff13d4d965ddeaf48e53bc53f.png" type="image/png" length="290998"/>
+    <category term="因河而生：天穆村历史地理溯源"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆村穆瑞敬展示新修《穆氏族谱》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">穆姓作为天穆村的第一大姓，最早能追溯到明朝初年锦衣卫穆天庆，穆天庆有五个儿子，在燕王靖难后由南京迁来北京、河北一带，五兄弟分散定居，老二穆重和落居在天津城十二里处穆家庄，成为如今天穆穆氏一世祖。穆重和育有二子：穆太、穆能，从第三代开始依照“玉枝英世仲，应思景从国朝兴，文成祥瑞怀德生”的字辈依次排辈，字辈排完后需重新接续，目前已接续“孝友为本伦常序，诗礼传家祖训良”字辈。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">2023年实地调研时所拍</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">因河而生：天穆村历史地理溯源</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>./items/show/378</id>
+    <title><![CDATA[天穆村胡同牌]]></title>
+    <summary><![CDATA[天穆的聚落形态逐渐以寺坊爲中心向外层层展，也因之历史地形成了我国穆斯林围寺而居、依坊经商的分布格局。               村内里巷交错，胡同相接。穆庄子有两条东西向大街，即清真寺大街和天穆大街。从清真寺向东、南、西辐射出16条胡同，以乐善胡同爲中心，向东有平安、维善、敬善、德善、东小道5条胡同。向东向西有育德、明德、维新、育才、保和、义学、培养、单街子、新村9条胡同。寺前还有德盛胡同。天齐庙则有两条南北向大街，即天齐庙大街和东堤大街，包括10余条胡同，即穆家胡同、于家胡同、茶铺胡同、西坑沿、王家台、东堤大街、张家胡同、杨家胡同、寺前胡同和寺后胡同等。]]></summary>
+    <updated>2026-02-05T16:21:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/378"/>
+    <link rel="enclosure" href="./files/original/cf21297ae5b3e9c3610ae0eb5d58b0af.png" type="image/png" length="118975"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <category term="胡同文化：街巷之间的日常"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆村胡同牌</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">天穆的聚落形态逐渐以寺坊爲中心向外层层展，也因之历史地形成了我国穆斯林围寺而居、依坊经商的分布格局。               村内里巷交错，胡同相接。穆庄子有两条东西向大街，即清真寺大街和天穆大街。从清真寺向东、南、西辐射出16条胡同，以乐善胡同爲中心，向东有平安、维善、敬善、德善、东小道5条胡同。向东向西有育德、明德、维新、育才、保和、义学、培养、单街子、新村9条胡同。寺前还有德盛胡同。天齐庙则有两条南北向大街，即天齐庙大街和东堤大街，包括10余条胡同，即穆家胡同、于家胡同、茶铺胡同、西坑沿、王家台、东堤大街、张家胡同、杨家胡同、寺前胡同和寺后胡同等。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">收藏在村民黑俊志家中</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">胡同文化：街巷之间的日常</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>./items/show/379</id>
+    <title><![CDATA[天穆村门牌]]></title>
+    <summary><![CDATA[天穆的聚落形态逐渐以寺坊爲中心向外层层展，也因之历史地形成了我国穆斯林围寺而居、依坊经商的分布格局。               村内里巷交错，胡同相接。穆庄子有两条东西向大街，即清真寺大街和天穆大街。从清真寺向东、南、西辐射出16条胡同，以乐善胡同爲中心，向东有平安、维善、敬善、德善、东小道5条胡同。向东向西有育德、明德、维新、育才、保和、义学、培养、单街子、新村9条胡同。寺前还有德盛胡同。天齐庙则有两条南北向大街，即天齐庙大街和东堤大街，包括10余条胡同，即穆家胡同、于家胡同、茶铺胡同、西坑沿、王家台、东堤大街、张家胡同、杨家胡同、寺前胡同和寺后胡同等。]]></summary>
+    <updated>2026-02-05T16:21:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/379"/>
+    <link rel="enclosure" href="./files/original/c7bb05181e01ecd56c0cc63ecc20606a.png" type="image/png" length="138731"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <category term="胡同文化：街巷之间的日常"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆村门牌</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">天穆的聚落形态逐渐以寺坊爲中心向外层层展，也因之历史地形成了我国穆斯林围寺而居、依坊经商的分布格局。               村内里巷交错，胡同相接。穆庄子有两条东西向大街，即清真寺大街和天穆大街。从清真寺向东、南、西辐射出16条胡同，以乐善胡同爲中心，向东有平安、维善、敬善、德善、东小道5条胡同。向东向西有育德、明德、维新、育才、保和、义学、培养、单街子、新村9条胡同。寺前还有德盛胡同。天齐庙则有两条南北向大街，即天齐庙大街和东堤大街，包括10余条胡同，即穆家胡同、于家胡同、茶铺胡同、西坑沿、王家台、东堤大街、张家胡同、杨家胡同、寺前胡同和寺后胡同等。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">收藏在村民黑俊志家中</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">胡同文化：街巷之间的日常</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>./items/show/522</id>
+    <title><![CDATA[天穆民族书画院常任理事马俊发作品《昔日天穆美景》]]></title>
+    <updated>2026-02-05T21:33:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/522"/>
+    <link rel="enclosure" href="./files/original/2f0ace1161f03d9a7ae29e34e3483333.png" type="image/png" length="250978"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆民族书画院常任理事马俊发作品《昔日天穆美景》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">马俊发：《马俊发文稿集》，内部出版，第79页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>./items/show/512</id>
+    <title><![CDATA[天穆花键队参加各种比赛荣获的奖状、奖杯等]]></title>
+    <updated>2026-02-05T21:33:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/512"/>
+    <link rel="enclosure" href="./files/original/05ab53002587f28800360b6613e84b95.png" type="image/png" length="437997"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆花键队参加各种比赛荣获的奖状、奖杯等</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第107页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>./items/show/462</id>
+    <title><![CDATA[天穆马车队社员合影]]></title>
+    <updated>2026-02-05T21:32:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/462"/>
+    <link rel="enclosure" href="./files/original/e6e2c6bee62e4df595837f4816e82e7b.png" type="image/png" length="665161"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <category term="马蹄扬尘：大车辚辚通远陌"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆马车队社员合影</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，中国文化出版社2017年版，第145页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>./items/show/465</id>
+    <title><![CDATA[存自行车牌]]></title>
+    <updated>2026-02-05T21:32:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="./items/show/465"/>
+    <link rel="enclosure" href="./files/original/7d2a650e33dd3d2941d9480293be5460.png" type="image/png" length="98910"/>
+    <category term="双轮流转：驶过烽烟与市井"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">存自行车牌</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第142、148页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>
