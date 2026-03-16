@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/show/389?output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T18:58:46+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/show/389?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/show/1?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/show/388?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/show/447?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/show/524?output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/389</id>
+    <title><![CDATA[北寺居委会社区活动]]></title>
+    <summary><![CDATA[旧村改造至今仍在进行中，尚未搬迁的村民在北寺居委会参加活动。]]></summary>
+    <updated>2026-02-05T16:21:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/389"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/4a45e428256924984be8ea56c9eb0139.png" type="image/png" length="993675"/>
+    <category term="城中村改造：从传统村落到都市社区的重生"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">北寺居委会社区活动</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">旧村改造至今仍在进行中，尚未搬迁的村民在北寺居委会参加活动。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">2023年实地调研时所拍</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">城中村改造：从传统村落到都市社区的重生</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

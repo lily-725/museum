@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="450" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/show/450?output=omeka-xml" accessDate="2026-03-16T19:03:13+08:00">
+  <fileContainer>
+    <file fileId="597">
+      <src>http://47.83.121.72/files/original/4c2a5bf1c7934b26ae623ab35eeadad5.png</src>
+      <authentication>0c05d1575981e7f1865ac3c72b406f60</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="899">
+              <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第142页。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="900">
+              <text>勒子（用于船上、车上剎紧货物的工具）</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="7">
+      <name>水运舟行：北运河上帆影长</name>
+    </tag>
+    <tag tagId="6">
+      <name>舟车辐辏：水陆交汇处的行旅生计</name>
+    </tag>
+  </tagContainer>
+</item>

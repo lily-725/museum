@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/browse?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:09:59+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/browse?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/3?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/12?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/377</id>
+    <title><![CDATA[部分胡同所在位置平面图]]></title>
+    <summary><![CDATA[天穆的聚落形态逐渐以寺坊爲中心向外层层展，也因之历史地形成了我国穆斯林围寺而居、依坊经商的分布格局。               村内里巷交错，胡同相接。穆庄子有两条东西向大街，即清真寺大街和天穆大街。从清真寺向东、南、西辐射出16条胡同，以乐善胡同爲中心，向东有平安、维善、敬善、德善、东小道5条胡同。向东向西有育德、明德、维新、育才、保和、义学、培养、单街子、新村9条胡同。寺前还有德盛胡同。天齐庙则有两条南北向大街，即天齐庙大街和东堤大街，包括10余条胡同，即穆家胡同、于家胡同、茶铺胡同、西坑沿、王家台、东堤大街、张家胡同、杨家胡同、寺前胡同和寺后胡同等。]]></summary>
+    <updated>2026-02-05T16:21:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/377"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/980671995a3054336dacf31eb1608a5e.png" type="image/png" length="1088642"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <category term="胡同文化：街巷之间的日常"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">部分胡同所在位置平面图</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">天穆的聚落形态逐渐以寺坊爲中心向外层层展，也因之历史地形成了我国穆斯林围寺而居、依坊经商的分布格局。               村内里巷交错，胡同相接。穆庄子有两条东西向大街，即清真寺大街和天穆大街。从清真寺向东、南、西辐射出16条胡同，以乐善胡同爲中心，向东有平安、维善、敬善、德善、东小道5条胡同。向东向西有育德、明德、维新、育才、保和、义学、培养、单街子、新村9条胡同。寺前还有德盛胡同。天齐庙则有两条南北向大街，即天齐庙大街和东堤大街，包括10余条胡同，即穆家胡同、于家胡同、茶铺胡同、西坑沿、王家台、东堤大街、张家胡同、杨家胡同、寺前胡同和寺后胡同等。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">村民穆瑞信手绘</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">胡同文化：街巷之间的日常</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/459</id>
+    <title><![CDATA[软笼头]]></title>
+    <updated>2026-02-05T21:32:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/459"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/b0ef61e70a223e15a455654824d59434.png" type="image/png" length="101192"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <category term="马蹄扬尘：大车辚辚通远陌"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">软笼头</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/449</id>
+    <title><![CDATA[起帆滑轮]]></title>
+    <updated>2026-02-05T21:32:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/449"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/0e4bd2e25d52cbd1d44f5a6573e6a2b1.png" type="image/png" length="192220"/>
+    <category term="水运舟行：北运河上帆影长"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">起帆滑轮</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第142页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/520</id>
+    <title><![CDATA[赵鸿桐《三国演义开篇词》]]></title>
+    <updated>2026-02-05T21:33:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/520"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/d71df3fe1a541eac2d31f0bac6c65074.png" type="image/png" length="306105"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">赵鸿桐《三国演义开篇词》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">村民刘玉森保存</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/464</id>
+    <title><![CDATA[货郎鼓]]></title>
+    <updated>2026-02-05T21:32:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/464"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/f40baeceb3984a0aadfb5fca9a93d279.png" type="image/png" length="308881"/>
+    <category term="双轮流转：驶过烽烟与市井"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">货郎鼓</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第142、148页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/496</id>
+    <title><![CDATA[西义学，位于天穆村义学胡同1号，胡同因其而得名。一九五八年停办，改作红医站(小医院)。]]></title>
+    <updated>2026-02-05T21:33:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/496"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/f9acd55869d3212660dcd744c0c1c749.png" type="image/png" length="3266182"/>
+    <category term="古训新芽：私塾与经堂教育"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">西义学，位于天穆村义学胡同1号，胡同因其而得名。一九五八年停办，改作红医站(小医院)。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">村民穆瑞信回忆，穆怀有绘图</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/463</id>
+    <title><![CDATA[自行车载卖羊肉箱子]]></title>
+    <updated>2026-02-05T21:32:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/463"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/d04437434b57ba7e037770ac42915fc0.png" type="image/png" length="446156"/>
+    <category term="双轮流转：驶过烽烟与市井"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">自行车载卖羊肉箱子</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第142、148页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/509</id>
+    <title><![CDATA[罗金龙在天津市公开男女游泳赛中获得六十单程冠军]]></title>
+    <updated>2026-02-05T21:33:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/509"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/6ca468ff8926f32f3d6d6b76ac4fa257.png" type="image/png" length="416303"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">罗金龙在天津市公开男女游泳赛中获得六十单程冠军</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">《公开游泳赛昨举行男女各组几均为穆氏天下六十单程罗金龙冠军》，《大公报》天津版，1947年9月1日，第五版。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/488</id>
+    <title><![CDATA[糖堆架]]></title>
+    <updated>2026-02-05T21:33:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/488"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/cc0b247a9bd620cf9345a225da14d84b.png" type="image/png" length="216211"/>
+    <category term="津沽百味：小吃里的烟火记忆"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">糖堆架</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149-150页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/487</id>
+    <title><![CDATA[糕点模具]]></title>
+    <updated>2026-02-05T21:33:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/487"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/d9ee762e46efe98f9c39048ab28ece9f.png" type="image/png" length="207581"/>
+    <category term="津沽百味：小吃里的烟火记忆"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">糕点模具</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149-150页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

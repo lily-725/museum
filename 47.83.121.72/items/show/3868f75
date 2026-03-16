@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="386" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/show/386?output=omeka-xml" accessDate="2026-03-16T18:59:03+08:00">
+  <fileContainer>
+    <file fileId="504">
+      <src>http://47.83.121.72/files/original/542c188926d9e6490df58526cd18de6b.png</src>
+      <authentication>20e68b3cb71c467cd1287402890a455f</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="650">
+              <text>城中村改造：从传统村落到都市社区的重生</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="651">
+              <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第28页。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="652">
+              <text>北辰区城中村改造天穆老村总平面示意图</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="653">
+              <text>2008年，天津市啓动环内旧村改造，天穆村民多迁至新建小区天穆东苑，原有的基于族群认同和血缘认同的居住格局被打破，高楼林立的民族社区逐渐替代了挨家挨户的乡村平房，胡同文化逐渐消逝。新的住宅区不断吸纳回族与外来居民，形成开放而多元的新社区。自2016年村委会换届以来，村委会与居委会互不隶属，形成了相对独立的管理和运作结构，“村带街”模式被打破。村委会负责管理村中的农民，而居委会则负责城市社区的居民事务。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="5">
+      <name>城中村改造：从传统村落到都市社区的重生</name>
+    </tag>
+    <tag tagId="1">
+      <name>枕河而居：寺坊周边的家园与烟火</name>
+    </tag>
+  </tagContainer>
+</item>

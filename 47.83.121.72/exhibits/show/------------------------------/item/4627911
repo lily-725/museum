@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/exhibits/show/------------------------------/item/462?output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T18:51:24+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/exhibits/show/------------------------------/item/462?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/show/1?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/show/461?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/show/463?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/show/524?output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/462</id>
+    <title><![CDATA[天穆马车队社员合影]]></title>
+    <updated>2026-02-05T21:32:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/462"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/e6e2c6bee62e4df595837f4816e82e7b.png" type="image/png" length="665161"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <category term="马蹄扬尘：大车辚辚通远陌"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆马车队社员合影</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，中国文化出版社2017年版，第145页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

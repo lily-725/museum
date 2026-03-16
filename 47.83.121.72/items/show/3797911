@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/show/379?output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:05:50+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/show/379?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/show/1?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/show/378?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/show/380?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/show/524?output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/379</id>
+    <title><![CDATA[天穆村门牌]]></title>
+    <summary><![CDATA[天穆的聚落形态逐渐以寺坊爲中心向外层层展，也因之历史地形成了我国穆斯林围寺而居、依坊经商的分布格局。               村内里巷交错，胡同相接。穆庄子有两条东西向大街，即清真寺大街和天穆大街。从清真寺向东、南、西辐射出16条胡同，以乐善胡同爲中心，向东有平安、维善、敬善、德善、东小道5条胡同。向东向西有育德、明德、维新、育才、保和、义学、培养、单街子、新村9条胡同。寺前还有德盛胡同。天齐庙则有两条南北向大街，即天齐庙大街和东堤大街，包括10余条胡同，即穆家胡同、于家胡同、茶铺胡同、西坑沿、王家台、东堤大街、张家胡同、杨家胡同、寺前胡同和寺后胡同等。]]></summary>
+    <updated>2026-02-05T16:21:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/379"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/c7bb05181e01ecd56c0cc63ecc20606a.png" type="image/png" length="138731"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <category term="胡同文化：街巷之间的日常"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆村门牌</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">天穆的聚落形态逐渐以寺坊爲中心向外层层展，也因之历史地形成了我国穆斯林围寺而居、依坊经商的分布格局。               村内里巷交错，胡同相接。穆庄子有两条东西向大街，即清真寺大街和天穆大街。从清真寺向东、南、西辐射出16条胡同，以乐善胡同爲中心，向东有平安、维善、敬善、德善、东小道5条胡同。向东向西有育德、明德、维新、育才、保和、义学、培养、单街子、新村9条胡同。寺前还有德盛胡同。天齐庙则有两条南北向大街，即天齐庙大街和东堤大街，包括10余条胡同，即穆家胡同、于家胡同、茶铺胡同、西坑沿、王家台、东堤大街、张家胡同、杨家胡同、寺前胡同和寺后胡同等。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">收藏在村民黑俊志家中</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">胡同文化：街巷之间的日常</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

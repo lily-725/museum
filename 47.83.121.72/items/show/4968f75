@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="496" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/show/496?output=omeka-xml" accessDate="2026-03-16T18:57:53+08:00">
+  <fileContainer>
+    <file fileId="648">
+      <src>http://47.83.121.72/files/original/f9acd55869d3212660dcd744c0c1c749.png</src>
+      <authentication>3c0a543f057a3dc2b4e8e42ebb227ea7</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="991">
+              <text>村民穆瑞信回忆，穆怀有绘图</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="992">
+              <text>西义学，位于天穆村义学胡同1号，胡同因其而得名。一九五八年停办，改作红医站(小医院)。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="15">
+      <name>古训新芽：私塾与经堂教育</name>
+    </tag>
+    <tag tagId="14">
+      <name>新月下的成长：科学教育与文艺体育</name>
+    </tag>
+  </tagContainer>
+</item>

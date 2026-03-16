@@ -1,0 +1,21 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/491">
+<dc:title>开斋节</dc:title>
+<dc:source>图源网络https://mp.weixin.qq.com/s/TWQEWmkQBQ4fc7gRSeU0bg</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/492">
+<dc:title>古尔邦节</dc:title>
+<dc:source>王敬善摄</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/493">
+<dc:title>古尔邦节</dc:title>
+<dc:source>图源网络https://mp.weixin.qq.com/s/BjCEaGHUT2YliSXUYf1Cxw</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/494">
+<dc:title>古尔邦节</dc:title>
+<dc:source>图源网络https://mp.weixin.qq.com/s/BjCEaGHUT2YliSXUYf1Cxw</dc:source>
+</rdf:Description></rdf:RDF>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/506">
+<dc:title>穆成宽1935年在天津市青年会主办的公开脚踏车赛获冠军</dc:title>
+<dc:source>《青年会主办脚踏车赛昨举行观衆万余人极一时之盛冠军男穆成宽女林秀莲》，《大公报》天津版，1935年05月27日，第八版。</dc:source>
+</rdf:Description></rdf:RDF>

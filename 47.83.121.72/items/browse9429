@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+    <link>http://47.83.121.72/items/browse?tags=%E6%9E%95%E6%B2%B3%E8%80%8C%E5%B1%85%EF%BC%9A%E5%AF%BA%E5%9D%8A%E5%91%A8%E8%BE%B9%E7%9A%84%E5%AE%B6%E5%9B%AD%E4%B8%8E%E7%83%9F%E7%81%AB&amp;page=4&amp;sort_field=added&amp;sort_dir=d&amp;output=rss2</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Mon, 16 Mar 2026 19:43:42 +0800</pubDate>
+    <managingEditor>2510844725@qq.com (泊岸·生根——天穆六百年)</managingEditor>
+    <generator>Zend_Feed</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[明万历三十六年（1609）《穆太和族谱》]]></title>
+      <link>http://47.83.121.72/items/show/359</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">明万历三十六年（1609）《穆太和族谱》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">天穆村村名取自“天齐庙”和“穆庄子”两村的首字。明永乐二年（1404），浙江钱塘（今余杭）人穆重和随燕王朱棣北狩燕京，后至天津卫北十二里的地方占产落庄，置有穆家庄。明嘉靖年间（1522—1566），河南人周氏、单氏在穆家庄村南荒地落户，传说建“天齐庙”并以此爲名。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">《天津穆氏族谱》编修委员会收藏</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">因河而生：天穆村历史地理溯源</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="http://47.83.121.72/files/original/4fe31fdc6e7cdfc78c69047602e3a536.png"><img class="thumb" src="http://47.83.121.72/files/square_thumbnails/4fe31fdc6e7cdfc78c69047602e3a536.jpg" alt=""></a></div>]]></description>
+      <pubDate>Thu, 05 Feb 2026 16:21:17 +0800</pubDate>
+      <enclosure url="http://47.83.121.72/files/fullsize/4fe31fdc6e7cdfc78c69047602e3a536.jpg" type="image/png" length="941858"/>
+    </item>
+    <item>
+      <title><![CDATA[清道光二十六年（1846）穆家庄、东天齐庙、西天齐庙3村方位图]]></title>
+      <link>http://47.83.121.72/items/show/358</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">清道光二十六年（1846）穆家庄、东天齐庙、西天齐庙3村方位图</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">天穆村的最初形态与早期发展，是北运河自然地理与漕运经济共同塑造的产物。 村落所在的冲积平原是永定河与北运河的馈赠，“三面环水”的地理格局，不仅方便获取灌溉水源，更直接占据了漕运要道的核心区位。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">天津市地方志编修委员会：《天津通志》旧志点校卷（上），天津：南开大学出版社，1999年，第460页。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">因河而生：天穆村历史地理溯源</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="http://47.83.121.72/files/original/2375ce8dddd84ca6c35d5409718a8b5b.png"><img class="thumb" src="http://47.83.121.72/files/square_thumbnails/2375ce8dddd84ca6c35d5409718a8b5b.jpg" alt=""></a></div>]]></description>
+      <pubDate>Thu, 05 Feb 2026 16:21:17 +0800</pubDate>
+      <enclosure url="http://47.83.121.72/files/fullsize/2375ce8dddd84ca6c35d5409718a8b5b.jpg" type="image/png" length="432908"/>
+    </item>
+  </channel>
+</rss>

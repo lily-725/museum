@@ -1,0 +1,41 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/481">
+<dc:title>麻叶</dc:title>
+<dc:source>图源网络https://kknews.cc/zh-hk/food/n22ob93.html</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/488">
+<dc:title>糖堆架</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149-150页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/487">
+<dc:title>糕点模具</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149-150页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/480">
+<dc:title>油香</dc:title>
+<dc:source>图源网络https://www.sohu.com/a/227728100_355458</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/484">
+<dc:title>卖糕点用的盘秤</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/483">
+<dc:title>卖糕点用的盘秤</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/485">
+<dc:title>卖冰棍箱子</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149-150页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/486">
+<dc:title>卖乌豆箱子</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149-150页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/482">
+<dc:title>切糕</dc:title>
+<dc:source>图源网络https://www.sohu.com/a/227728100_355458</dc:source>
+</rdf:Description></rdf:RDF>

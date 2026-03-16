@@ -1,0 +1,11 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/383">
+<dc:title>穆朝正（约1820-1905），在天齐庙村北运河畔盖起大宅院</dc:title>
+<dc:subject>胡同文化：街巷之间的日常</dc:subject>
+<dc:description>村内标志性建筑，除南、北两座清真寺外，自清代起，村中有十几家富户曾建起大小四合套院不下十余处，相对于当时绝大多数村民的土坯房，这些四合套院，犹似鹤立鸡群。</dc:description>
+<dc:source>根据村民穆成铮回忆，穆瑞波绘图</dc:source>
+</rdf:Description></rdf:RDF>

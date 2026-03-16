@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="381" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/exhibits/show/------------/item/381?output=omeka-xml" accessDate="2026-03-16T18:49:43+08:00">
+  <fileContainer>
+    <file fileId="499">
+      <src>http://47.83.121.72/files/original/b7e6ab6a06725e61d103cec6c6a0113e.png</src>
+      <authentication>095d6b6fbf8d5253e662c6773be9eb32</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="630">
+              <text>胡同文化：街巷之间的日常</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="631">
+              <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第9页。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="632">
+              <text>大车门户主和所在胡同统计表</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="633">
+              <text>胡同的宽窄也会受到经济因素的影响。如平安胡同，位于天穆村东北部，形成于1901年前后，因住有穆成平、穆成安兄弟，穆竹平、穆竹安兄弟，从兄弟名字各取一字，故爲平安胡同。平安胡同中部是穆静荪的义顺成号，养有大车，有大车门。该胡同原来有5-6米宽，能过汽车，后来五十年代随着农业合作化，大车门逐渐消失，各家盖房占用胡同，逐渐变窄，只能过一辆三轮车。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="1">
+      <name>枕河而居：寺坊周边的家园与烟火</name>
+    </tag>
+    <tag tagId="4">
+      <name>胡同文化：街巷之间的日常</name>
+    </tag>
+  </tagContainer>
+</item>

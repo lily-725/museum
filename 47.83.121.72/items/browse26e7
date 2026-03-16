@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/browse?page=12&amp;output=omeka-xml" accessDate="2026-03-16T19:49:11+08:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>12</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>111</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="1" public="1" featured="1">
+    <fileContainer>
+      <file fileId="2">
+        <src>http://47.83.121.72/files/original/81c059224963b8d0aa6e1f029e3b3347.png</src>
+        <authentication>b5b04b4fe04ddd708d4d4302c57bb9e0</authentication>
+      </file>
+      <file fileId="3">
+        <src>http://47.83.121.72/files/original/4296d9e0680a404bb293eff0e2f697b0.png</src>
+        <authentication>b5b04b4fe04ddd708d4d4302c57bb9e0</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1">
+                <text>清道光二十六年（1846）穆家庄、东天齐庙、西天齐庙3村方位图</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2">
+                <text>（一）因河而生：天穆村历史地理溯源</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+</itemContainer>

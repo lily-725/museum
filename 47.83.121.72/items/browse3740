@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/browse?tags=%E6%96%B0%E5%AD%A6%E8%82%B2%E4%BA%BA%EF%BC%9A%E4%BB%8E%E5%B0%8F%E5%AD%A6%E5%88%B0%E8%81%8C%E6%A0%A1&amp;sort_field=added&amp;sort_dir=d&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:15:19+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/browse?tags=%E6%96%B0%E5%AD%A6%E8%82%B2%E4%BA%BA%EF%BC%9A%E4%BB%8E%E5%B0%8F%E5%AD%A6%E5%88%B0%E8%81%8C%E6%A0%A1&amp;sort_field=added&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?tags=%E6%96%B0%E5%AD%A6%E8%82%B2%E4%BA%BA%EF%BC%9A%E4%BB%8E%E5%B0%8F%E5%AD%A6%E5%88%B0%E8%81%8C%E6%A0%A1&amp;sort_field=added&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?tags=%E6%96%B0%E5%AD%A6%E8%82%B2%E4%BA%BA%EF%BC%9A%E4%BB%8E%E5%B0%8F%E5%AD%A6%E5%88%B0%E8%81%8C%E6%A0%A1&amp;sort_field=added&amp;sort_dir=d&amp;output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/505</id>
+    <title><![CDATA[1997年10月15日，沙特、阿联酋、卡塔尔等海湾国家文化考察团考察民族职专]]></title>
+    <updated>2026-02-05T21:33:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/505"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/d444f5f6704190ae4ebe610815ebcc8f.png" type="image/png" length="77647"/>
+    <category term="新学育人：从小学到职校"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">1997年10月15日，沙特、阿联酋、卡塔尔等海湾国家文化考察团考察民族职专</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第101页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/504</id>
+    <title><![CDATA[1996年建成的天津市民族职业中等专业学校]]></title>
+    <updated>2026-02-05T21:33:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/504"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/d12efdc9df764387c226e49d44d3dae2.png" type="image/png" length="231732"/>
+    <category term="新学育人：从小学到职校"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">1996年建成的天津市民族职业中等专业学校</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第100页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/503</id>
+    <title><![CDATA[天穆小学附属幼儿园]]></title>
+    <updated>2026-02-05T21:33:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/503"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/e4ca8a2ce1f231d572a6bb0447376972.png" type="image/png" length="315316"/>
+    <category term="新学育人：从小学到职校"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆小学附属幼儿园</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">2023年实地调研时所拍</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/502</id>
+    <title><![CDATA[天穆小学历任校长]]></title>
+    <updated>2026-02-05T21:33:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/502"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/5c07b2174d6a1dbfa034db560298f3d7.png" type="image/png" length="225959"/>
+    <category term="新学育人：从小学到职校"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆小学历任校长</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">天穆小学校史馆</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/501</id>
+    <title><![CDATA[天穆小学]]></title>
+    <updated>2026-02-05T21:33:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/501"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/566f25c5a0a5fae6b850ed22b058c3a4.png" type="image/png" length="885879"/>
+    <category term="新学育人：从小学到职校"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆小学</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">2023年实地调研时所拍</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/500</id>
+    <title><![CDATA[1952年7月2日，天穆村小学第四届毕业班师生合影]]></title>
+    <updated>2026-02-05T21:33:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/500"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/c47e78ee3c2feb5edf417e95d54192dd.png" type="image/png" length="203075"/>
+    <category term="新学育人：从小学到职校"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">1952年7月2日，天穆村小学第四届毕业班师生合影</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第103页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

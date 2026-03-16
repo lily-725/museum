@@ -1,0 +1,9 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/507">
+<dc:title>穆成宽1937年在天津市公开游泳赛中打破四项纪录</dc:title>
+<dc:source>张克强：《本市公开游泳赛，打破四项纪录个人总分第一名穆成宽》，《天津商报画刊》第24卷第36期，1937年，第2页。</dc:source>
+</rdf:Description></rdf:RDF>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/browse?page=12&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:50:33+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/browse?page=12&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?page=12&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/11?page=12&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/12?page=12&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/524</id>
+    <title><![CDATA[《津门保甲图说》相关记载]]></title>
+    <updated>2026-02-05T21:53:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/524"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/1b0f2eeebed57699fb062607528cf905.png" type="image/png" length="1022138"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/d7361bc57f1d293f7c7507b8b0896cdd.png" type="image/png" length="209117"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/0cec4f53df3a3488590a484bb66fa813.png" type="image/png" length="258363"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/13a3aa5813950f54fc4897fe0a590bae.png" type="image/png" length="98571"/>
+    <category term="水运舟行：北运河上帆影长"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">《津门保甲图说》相关记载</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">《津门保甲图说》清道光二十六年刻本</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

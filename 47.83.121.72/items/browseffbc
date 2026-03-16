@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/browse?tags=%E6%96%B0%E6%9C%88%E4%B8%8B%E7%9A%84%E6%88%90%E9%95%BF%EF%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2%E4%B8%8E%E6%96%87%E8%89%BA%E4%BD%93%E8%82%B2&amp;page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:28:46+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/browse?tags=%E6%96%B0%E6%9C%88%E4%B8%8B%E7%9A%84%E6%88%90%E9%95%BF%EF%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2%E4%B8%8E%E6%96%87%E8%89%BA%E4%BD%93%E8%82%B2&amp;page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?tags=%E6%96%B0%E6%9C%88%E4%B8%8B%E7%9A%84%E6%88%90%E9%95%BF%EF%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2%E4%B8%8E%E6%96%87%E8%89%BA%E4%BD%93%E8%82%B2&amp;page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?tags=%E6%96%B0%E6%9C%88%E4%B8%8B%E7%9A%84%E6%88%90%E9%95%BF%EF%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2%E4%B8%8E%E6%96%87%E8%89%BA%E4%BD%93%E8%82%B2&amp;page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/3?tags=%E6%96%B0%E6%9C%88%E4%B8%8B%E7%9A%84%E6%88%90%E9%95%BF%EF%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2%E4%B8%8E%E6%96%87%E8%89%BA%E4%BD%93%E8%82%B2&amp;page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/3?tags=%E6%96%B0%E6%9C%88%E4%B8%8B%E7%9A%84%E6%88%90%E9%95%BF%EF%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2%E4%B8%8E%E6%96%87%E8%89%BA%E4%BD%93%E8%82%B2&amp;page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/502</id>
+    <title><![CDATA[天穆小学历任校长]]></title>
+    <updated>2026-02-05T21:33:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/502"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/5c07b2174d6a1dbfa034db560298f3d7.png" type="image/png" length="225959"/>
+    <category term="新学育人：从小学到职校"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆小学历任校长</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">天穆小学校史馆</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/503</id>
+    <title><![CDATA[天穆小学附属幼儿园]]></title>
+    <updated>2026-02-05T21:33:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/503"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/e4ca8a2ce1f231d572a6bb0447376972.png" type="image/png" length="315316"/>
+    <category term="新学育人：从小学到职校"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆小学附属幼儿园</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">2023年实地调研时所拍</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/522</id>
+    <title><![CDATA[天穆民族书画院常任理事马俊发作品《昔日天穆美景》]]></title>
+    <updated>2026-02-05T21:33:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/522"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/2f0ace1161f03d9a7ae29e34e3483333.png" type="image/png" length="250978"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆民族书画院常任理事马俊发作品《昔日天穆美景》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">马俊发：《马俊发文稿集》，内部出版，第79页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/512</id>
+    <title><![CDATA[天穆花键队参加各种比赛荣获的奖状、奖杯等]]></title>
+    <updated>2026-02-05T21:33:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/512"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/05ab53002587f28800360b6613e84b95.png" type="image/png" length="437997"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆花键队参加各种比赛荣获的奖状、奖杯等</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第107页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/515</id>
+    <title><![CDATA[房玉霞演唱天津时调《幸福晚年》]]></title>
+    <updated>2026-02-05T21:33:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/515"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/4c0abd555f81f05eea902602d7be4950.png" type="image/png" length="398343"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">房玉霞演唱天津时调《幸福晚年》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">天穆镇公衆号https://mp.weixin.qq.com/s/E7FM6B2ernCqd0cfPemktA</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/516</id>
+    <title><![CDATA[折子戏《大保国》]]></title>
+    <updated>2026-02-05T21:33:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/516"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/748a419d1131f53995d4271bdefc9d3e.png" type="image/png" length="229330"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">折子戏《大保国》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">天穆镇京剧团</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/497</id>
+    <title><![CDATA[村民穆怀有绘天齐庙村经房子草图，房屋五间]]></title>
+    <updated>2026-02-05T21:33:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/497"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/dd9dc0c98dc0253ddf68ec9620814c57.png" type="image/png" length="412546"/>
+    <category term="古训新芽：私塾与经堂教育"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">村民穆怀有绘天齐庙村经房子草图，房屋五间</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《天穆清真南寺简史》，北京：中国文化出版社，2018年，第32页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/495</id>
+    <title><![CDATA[王德舆后人王同善介绍书房相关情况]]></title>
+    <updated>2026-02-05T21:33:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/495"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/8fff65d761bac8056b17a0e558b03fc1.png" type="image/png" length="278506"/>
+    <category term="古训新芽：私塾与经堂教育"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">王德舆后人王同善介绍书房相关情况</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">2023年实地调研时所拍</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/513</id>
+    <title><![CDATA[穆丹，曾将花毽带进了2008年北京奥运会表演。]]></title>
+    <updated>2026-02-05T21:33:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/513"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/5b71b4038b831b657bd79dd6879ffdaf.png" type="image/png" length="325680"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">穆丹，曾将花毽带进了2008年北京奥运会表演。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">央视网CCTV7 《花毽王 穆丹》专题片<br />
+https://tv.cctv.com/2010/08/01/VIDE2vDPjMemgUK48BU8YIzs100801.shtml</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/519</id>
+    <title><![CDATA[穆少伯《咏华山》]]></title>
+    <updated>2026-02-05T21:33:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/519"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/bcf7812dc4147b93a9f04c3567247ca3.png" type="image/png" length="668339"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">穆少伯《咏华山》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">村民穆少伯保存</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

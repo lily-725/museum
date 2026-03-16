@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/exhibits/show/------------/item/387?output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T18:50:04+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/exhibits/show/------------/item/387?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/show/1?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/show/386?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/show/388?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/show/524?output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/387</id>
+    <title><![CDATA[城中村天穆改造工程户型设计图]]></title>
+    <summary><![CDATA[2008年，天津市啓动环内旧村改造，天穆村民多迁至新建小区天穆东苑，原有的基于族群认同和血缘认同的居住格局被打破，高楼林立的民族社区逐渐替代了挨家挨户的乡村平房，胡同文化逐渐消逝。新的住宅区不断吸纳回族与外来居民，形成开放而多元的新社区。自2016年村委会换届以来，村委会与居委会互不隶属，形成了相对独立的管理和运作结构，“村带街”模式被打破。村委会负责管理村中的农民，而居委会则负责城市社区的居民事务。]]></summary>
+    <updated>2026-02-05T16:21:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/387"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/6393292600a70f4af12afc1f11161e4a.png" type="image/png" length="2901771"/>
+    <category term="城中村改造：从传统村落到都市社区的重生"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">城中村天穆改造工程户型设计图</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">2008年，天津市啓动环内旧村改造，天穆村民多迁至新建小区天穆东苑，原有的基于族群认同和血缘认同的居住格局被打破，高楼林立的民族社区逐渐替代了挨家挨户的乡村平房，胡同文化逐渐消逝。新的住宅区不断吸纳回族与外来居民，形成开放而多元的新社区。自2016年村委会换届以来，村委会与居委会互不隶属，形成了相对独立的管理和运作结构，“村带街”模式被打破。村委会负责管理村中的农民，而居委会则负责城市社区的居民事务。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第29-30页。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">城中村改造：从传统村落到都市社区的重生</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

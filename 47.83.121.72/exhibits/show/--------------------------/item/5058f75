@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="505" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/exhibits/show/--------------------------/item/505?output=omeka-xml" accessDate="2026-03-16T18:54:03+08:00">
+  <fileContainer>
+    <file fileId="657">
+      <src>http://47.83.121.72/files/original/d444f5f6704190ae4ebe610815ebcc8f.png</src>
+      <authentication>78b315f4c1009f5241a78a86457aa0c9</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="1009">
+              <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第101页。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1010">
+              <text>1997年10月15日，沙特、阿联酋、卡塔尔等海湾国家文化考察团考察民族职专</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="16">
+      <name>新学育人：从小学到职校</name>
+    </tag>
+    <tag tagId="14">
+      <name>新月下的成长：科学教育与文艺体育</name>
+    </tag>
+  </tagContainer>
+</item>

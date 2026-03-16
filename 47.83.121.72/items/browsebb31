@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/browse?tags=%E5%8D%97%E5%8C%97%E4%BA%8C%E5%AF%BA%EF%BC%9A%E5%A4%A9%E7%A9%86%E6%9D%91%E7%9A%84%E4%BF%A1%E4%BB%B0%E7%A9%BA%E9%97%B4&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:10:53+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/browse?tags=%E5%8D%97%E5%8C%97%E4%BA%8C%E5%AF%BA%EF%BC%9A%E5%A4%A9%E7%A9%86%E6%9D%91%E7%9A%84%E4%BF%A1%E4%BB%B0%E7%A9%BA%E9%97%B4&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?tags=%E5%8D%97%E5%8C%97%E4%BA%8C%E5%AF%BA%EF%BC%9A%E5%A4%A9%E7%A9%86%E6%9D%91%E7%9A%84%E4%BF%A1%E4%BB%B0%E7%A9%BA%E9%97%B4&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?tags=%E5%8D%97%E5%8C%97%E4%BA%8C%E5%AF%BA%EF%BC%9A%E5%A4%A9%E7%A9%86%E6%9D%91%E7%9A%84%E4%BF%A1%E4%BB%B0%E7%A9%BA%E9%97%B4&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/2?tags=%E5%8D%97%E5%8C%97%E4%BA%8C%E5%AF%BA%EF%BC%9A%E5%A4%A9%E7%A9%86%E6%9D%91%E7%9A%84%E4%BF%A1%E4%BB%B0%E7%A9%BA%E9%97%B4&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/375</id>
+    <title><![CDATA[穆瑞仁（1934-），至今仍坚持每天前往清真寺]]></title>
+    <summary><![CDATA[天穆村不同年龄阶段的信教人群对宗教态度差异较大。老年群体普遍对宗教保有较高的信仰比例，是天穆村穆斯林中最爲虔诚的群体，甚至可以说是当地宗教生活的主要参与者，引导着天穆村日常宗教活动的开展，对每天的礼拜功课以及清真饮食习惯等伊斯兰宗教仪轨掌握全面、坚持严格。]]></summary>
+    <updated>2026-02-05T16:21:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/375"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/ca16c4ef3e09e66020b48a772180ec1c.png" type="image/png" length="137337"/>
+    <category term="南北二寺：天穆村的信仰空间"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">穆瑞仁（1934-），至今仍坚持每天前往清真寺</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">天穆村不同年龄阶段的信教人群对宗教态度差异较大。老年群体普遍对宗教保有较高的信仰比例，是天穆村穆斯林中最爲虔诚的群体，甚至可以说是当地宗教生活的主要参与者，引导着天穆村日常宗教活动的开展，对每天的礼拜功课以及清真饮食习惯等伊斯兰宗教仪轨掌握全面、坚持严格。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">2023年实地调研时所拍</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">南北二寺：天穆村的信仰空间</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/376</id>
+    <title><![CDATA[晌礼结束（约下午一点半）村民相继离开清真北寺]]></title>
+    <summary><![CDATA[天穆村不同年龄阶段的信教人群对宗教态度差异较大。老年群体普遍对宗教保有较高的信仰比例，是天穆村穆斯林中最爲虔诚的群体，甚至可以说是当地宗教生活的主要参与者，引导着天穆村日常宗教活动的开展，对每天的礼拜功课以及清真饮食习惯等伊斯兰宗教仪轨掌握全面、坚持严格。]]></summary>
+    <updated>2026-02-05T16:21:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/376"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/4140fccee220522cb66a885003706576.png" type="image/png" length="1934732"/>
+    <category term="南北二寺：天穆村的信仰空间"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">晌礼结束（约下午一点半）村民相继离开清真北寺</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">天穆村不同年龄阶段的信教人群对宗教态度差异较大。老年群体普遍对宗教保有较高的信仰比例，是天穆村穆斯林中最爲虔诚的群体，甚至可以说是当地宗教生活的主要参与者，引导着天穆村日常宗教活动的开展，对每天的礼拜功课以及清真饮食习惯等伊斯兰宗教仪轨掌握全面、坚持严格。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">2025年实地调研时所拍</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">南北二寺：天穆村的信仰空间</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/384">
+<dc:title>门楣杜哇</dc:title>
+<dc:subject>胡同文化：街巷之间的日常</dc:subject>
+<dc:description>“杜哇”，是阿拉伯语音译，意为“祈祷”。经文杜哇就是阿拉伯文的祈祷，在回族穆斯林家庭和清真饭店的门楣上都书写或悬挂张贴着一段经文杜哇。图示分别爲花体和正常体的阿拉伯文门楣杜哇，花体的门楣杜哇因似花画而不易被看出是经文，在“宗教改革”和“文化大革命”时期未因宗教原因受损毁。</dc:description>
+<dc:source>收藏在村民黑俊志家中</dc:source>
+</rdf:Description></rdf:RDF>

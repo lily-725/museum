@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/browse?page=6&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:42:03+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/browse?page=6&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?page=6&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/5?page=6&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/7?page=6&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/12?page=6&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/464</id>
+    <title><![CDATA[货郎鼓]]></title>
+    <updated>2026-02-05T21:32:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/464"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/f40baeceb3984a0aadfb5fca9a93d279.png" type="image/png" length="308881"/>
+    <category term="双轮流转：驶过烽烟与市井"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">货郎鼓</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第142、148页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/465</id>
+    <title><![CDATA[存自行车牌]]></title>
+    <updated>2026-02-05T21:32:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/465"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/7d2a650e33dd3d2941d9480293be5460.png" type="image/png" length="98910"/>
+    <category term="双轮流转：驶过烽烟与市井"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">存自行车牌</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第142、148页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/466</id>
+    <title><![CDATA[参与过走“DDT”的穆祥增老人]]></title>
+    <updated>2026-02-05T21:32:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/466"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/fd4e88cb1240e41e3f198b864a574e14.png" type="image/png" length="185292"/>
+    <category term="双轮流转：驶过烽烟与市井"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">参与过走“DDT”的穆祥增老人</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，第319页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/467</id>
+    <title><![CDATA[1947年10月16日国民政府查天穆村为共产党军队运送军火]]></title>
+    <updated>2026-02-05T21:32:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/467"/>
+    <category term="双轮流转：驶过烽烟与市井"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">1947年10月16日国民政府查天穆村为共产党军队运送军火</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">天津市档案馆藏，401206800-J0002-3-007276-016</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/468</id>
+    <title><![CDATA[穆怀安对走“DDT”的回忆]]></title>
+    <updated>2026-02-05T21:32:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/468"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/b5f83c3d427fb4cbf76ea876f0b10942.png" type="image/png" length="379957"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/b5bd52856f333a1d57a473829f5ad560.png" type="image/png" length="1084127"/>
+    <category term="双轮流转：驶过烽烟与市井"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">穆怀安对走“DDT”的回忆</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">穆怀安口述，马俊发整理：《回忆当年走“滴滴涕”》，转引自马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，第328-329页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/469</id>
+    <title><![CDATA[“铁驴”自行车]]></title>
+    <updated>2026-02-05T21:32:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/469"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/f62e6d6b4ad32f99188c716e7600da8e.png" type="image/png" length="348938"/>
+    <category term="双轮流转：驶过烽烟与市井"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">“铁驴”自行车</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第148页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/470</id>
+    <title><![CDATA[马俊升对骑自行车驮羊头的回忆]]></title>
+    <updated>2026-02-05T21:32:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/470"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/1bd3b1f36a51255ea461aee568e56ce0.png" type="image/png" length="196240"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/89d6f6b0642a36f05b347858d57049ce.png" type="image/png" length="1152946"/>
+    <category term="双轮流转：驶过烽烟与市井"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">马俊升对骑自行车驮羊头的回忆</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">马俊升口述，马俊发整理：《驮羊头那些事》，转引自马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，第146-147页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/471</id>
+    <title><![CDATA[《古兰经》对饮食的要求]]></title>
+    <updated>2026-02-05T21:32:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/471"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <category term="鲜腴牛羊：食以养性洁为本"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">《古兰经》对饮食的要求</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">马坚译：《古兰经》，中国社会科学出版社1996年版，第102页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/472</id>
+    <title><![CDATA[伊斯兰典籍《天方典礼择要解》对饮食的记述]]></title>
+    <updated>2026-02-05T21:32:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/472"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/a47355162a448591246610c7bf1f715b.png" type="image/png" length="1552251"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <category term="鲜腴牛羊：食以养性洁为本"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">伊斯兰典籍《天方典礼择要解》对饮食的记述</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">（清）刘智撰：《天方典礼择要解》，同治十年刊本，第1页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/473</id>
+    <title><![CDATA[牛羊类刀具]]></title>
+    <updated>2026-02-05T21:32:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/473"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/5d5a3bc9b843d99bd1dc06d901cc0445.png" type="image/png" length="717914"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <category term="鲜腴牛羊：食以养性洁为本"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">牛羊类刀具</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第147-149页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

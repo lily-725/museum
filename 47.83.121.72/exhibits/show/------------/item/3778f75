@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="377" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/exhibits/show/------------/item/377?output=omeka-xml" accessDate="2026-03-16T18:49:27+08:00">
+  <fileContainer>
+    <file fileId="495">
+      <src>http://47.83.121.72/files/original/980671995a3054336dacf31eb1608a5e.png</src>
+      <authentication>35df1fd7f50d467fde814e95c81682f3</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="614">
+              <text>胡同文化：街巷之间的日常</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="615">
+              <text>村民穆瑞信手绘</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="616">
+              <text>部分胡同所在位置平面图</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="617">
+              <text>天穆的聚落形态逐渐以寺坊爲中心向外层层展，也因之历史地形成了我国穆斯林围寺而居、依坊经商的分布格局。               村内里巷交错，胡同相接。穆庄子有两条东西向大街，即清真寺大街和天穆大街。从清真寺向东、南、西辐射出16条胡同，以乐善胡同爲中心，向东有平安、维善、敬善、德善、东小道5条胡同。向东向西有育德、明德、维新、育才、保和、义学、培养、单街子、新村9条胡同。寺前还有德盛胡同。天齐庙则有两条南北向大街，即天齐庙大街和东堤大街，包括10余条胡同，即穆家胡同、于家胡同、茶铺胡同、西坑沿、王家台、东堤大街、张家胡同、杨家胡同、寺前胡同和寺后胡同等。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="1">
+      <name>枕河而居：寺坊周边的家园与烟火</name>
+    </tag>
+    <tag tagId="4">
+      <name>胡同文化：街巷之间的日常</name>
+    </tag>
+  </tagContainer>
+</item>

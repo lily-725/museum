@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="479" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/show/479?output=omeka-xml" accessDate="2026-03-16T19:08:35+08:00">
+  <fileContainer>
+    <file fileId="628">
+      <src>http://47.83.121.72/files/original/88ba2aa022bac7823192e4a811192634.png</src>
+      <authentication>2a4e6a09b86f81ca321988f32196a9e6</authentication>
+    </file>
+    <file fileId="629">
+      <src>http://47.83.121.72/files/original/5cc026bef83208650e3c201b765da6aa.png</src>
+      <authentication>30510b114cdde280b065005205dd5470</authentication>
+    </file>
+    <file fileId="630">
+      <src>http://47.83.121.72/files/original/98c15f802bcf53a2b27ef0052b19b6c3.png</src>
+      <authentication>3ac2a69269d9ec591ee5353e2f438d63</authentication>
+    </file>
+    <file fileId="631">
+      <src>http://47.83.121.72/files/original/47cea4a32026baceb79ed4aff44e60b9.png</src>
+      <authentication>574639cacd7316edbb7a2bf7566ed744</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="957">
+              <text>图源网络https://mp.weixin.qq.com/s/lhyyukz-TmwUSWt84MJCgQ</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="958">
+              <text>百年老字号“盛斋元”</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="10">
+      <name>牛羊嘉馔：慎择惟良处的烟火食事</name>
+    </tag>
+    <tag tagId="11">
+      <name>鲜腴牛羊：食以养性洁为本</name>
+    </tag>
+  </tagContainer>
+</item>

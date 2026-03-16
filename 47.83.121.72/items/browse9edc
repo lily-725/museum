@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/browse?page=9&amp;sort_field=added&amp;sort_dir=d&amp;output=omeka-xml" accessDate="2026-03-16T19:49:01+08:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>9</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>111</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="387" public="1" featured="0">
+    <fileContainer>
+      <file fileId="505">
+        <src>http://47.83.121.72/files/original/6393292600a70f4af12afc1f11161e4a.png</src>
+        <authentication>3576444a115f170581aefd7eacfed270</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="654">
+                <text>城中村改造：从传统村落到都市社区的重生</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="655">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第29-30页。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="656">
+                <text>城中村天穆改造工程户型设计图</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="657">
+                <text>2008年，天津市啓动环内旧村改造，天穆村民多迁至新建小区天穆东苑，原有的基于族群认同和血缘认同的居住格局被打破，高楼林立的民族社区逐渐替代了挨家挨户的乡村平房，胡同文化逐渐消逝。新的住宅区不断吸纳回族与外来居民，形成开放而多元的新社区。自2016年村委会换届以来，村委会与居委会互不隶属，形成了相对独立的管理和运作结构，“村带街”模式被打破。村委会负责管理村中的农民，而居委会则负责城市社区的居民事务。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="5">
+        <name>城中村改造：从传统村落到都市社区的重生</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="386" public="1" featured="0">
+    <fileContainer>
+      <file fileId="504">
+        <src>http://47.83.121.72/files/original/542c188926d9e6490df58526cd18de6b.png</src>
+        <authentication>20e68b3cb71c467cd1287402890a455f</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="650">
+                <text>城中村改造：从传统村落到都市社区的重生</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="651">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第28页。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="652">
+                <text>北辰区城中村改造天穆老村总平面示意图</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="653">
+                <text>2008年，天津市啓动环内旧村改造，天穆村民多迁至新建小区天穆东苑，原有的基于族群认同和血缘认同的居住格局被打破，高楼林立的民族社区逐渐替代了挨家挨户的乡村平房，胡同文化逐渐消逝。新的住宅区不断吸纳回族与外来居民，形成开放而多元的新社区。自2016年村委会换届以来，村委会与居委会互不隶属，形成了相对独立的管理和运作结构，“村带街”模式被打破。村委会负责管理村中的农民，而居委会则负责城市社区的居民事务。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="5">
+        <name>城中村改造：从传统村落到都市社区的重生</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="385" public="1" featured="0">
+    <fileContainer>
+      <file fileId="503">
+        <src>http://47.83.121.72/files/original/33e9949c86313726a2306030626efedc.png</src>
+        <authentication>534bb809fc69fa38c8d900922cebebc3</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="646">
+                <text>城中村改造：从传统村落到都市社区的重生</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="647">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第28页。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="648">
+                <text>北辰区城中村改造天穆老村鸟瞰渲染示意图</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="649">
+                <text>2008年，天津市啓动环内旧村改造，天穆村民多迁至新建小区天穆东苑，原有的基于族群认同和血缘认同的居住格局被打破，高楼林立的民族社区逐渐替代了挨家挨户的乡村平房，胡同文化逐渐消逝。新的住宅区不断吸纳回族与外来居民，形成开放而多元的新社区。自2016年村委会换届以来，村委会与居委会互不隶属，形成了相对独立的管理和运作结构，“村带街”模式被打破。村委会负责管理村中的农民，而居委会则负责城市社区的居民事务。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="5">
+        <name>城中村改造：从传统村落到都市社区的重生</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="384" public="1" featured="0">
+    <fileContainer>
+      <file fileId="502">
+        <src>http://47.83.121.72/files/original/8f89244da7784195ac9d3fe587d9312f.png</src>
+        <authentication>8e012f2ba18f26f0c4e11454658d83d8</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="642">
+                <text>胡同文化：街巷之间的日常</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="643">
+                <text>收藏在村民黑俊志家中</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="644">
+                <text>门楣杜哇</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="645">
+                <text>“杜哇”，是阿拉伯语音译，意为“祈祷”。经文杜哇就是阿拉伯文的祈祷，在回族穆斯林家庭和清真饭店的门楣上都书写或悬挂张贴着一段经文杜哇。图示分别爲花体和正常体的阿拉伯文门楣杜哇，花体的门楣杜哇因似花画而不易被看出是经文，在“宗教改革”和“文化大革命”时期未因宗教原因受损毁。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+      <tag tagId="4">
+        <name>胡同文化：街巷之间的日常</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="383" public="1" featured="0">
+    <fileContainer>
+      <file fileId="501">
+        <src>http://47.83.121.72/files/original/c9451f1739e03f202d3e7071db2d2e66.png</src>
+        <authentication>bb7e5bf54db9c236f219bca0f07c993f</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="638">
+                <text>胡同文化：街巷之间的日常</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="639">
+                <text>根据村民穆成铮回忆，穆瑞波绘图</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="640">
+                <text>穆朝正（约1820-1905），在天齐庙村北运河畔盖起大宅院</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="641">
+                <text>村内标志性建筑，除南、北两座清真寺外，自清代起，村中有十几家富户曾建起大小四合套院不下十余处，相对于当时绝大多数村民的土坯房，这些四合套院，犹似鹤立鸡群。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+      <tag tagId="4">
+        <name>胡同文化：街巷之间的日常</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="382" public="1" featured="0">
+    <fileContainer>
+      <file fileId="500">
+        <src>http://47.83.121.72/files/original/4e7a6ad673649ffb37740ae0d372b037.png</src>
+        <authentication>33268183fd0f596fabee6fcd5d8d0173</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="634">
+                <text>胡同文化：街巷之间的日常</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="635">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第8页。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="636">
+                <text>四合院户主、住址和格局统计表</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="637">
+                <text>村内标志性建筑，除南、北两座清真寺外，自清代起，村中有十几家富户曾建起大小四合套院不下十余处，相对于当时绝大多数村民的土坯房，这些四合套院，犹似鹤立鸡群。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+      <tag tagId="4">
+        <name>胡同文化：街巷之间的日常</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="381" public="1" featured="0">
+    <fileContainer>
+      <file fileId="499">
+        <src>http://47.83.121.72/files/original/b7e6ab6a06725e61d103cec6c6a0113e.png</src>
+        <authentication>095d6b6fbf8d5253e662c6773be9eb32</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="630">
+                <text>胡同文化：街巷之间的日常</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="631">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第9页。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="632">
+                <text>大车门户主和所在胡同统计表</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="633">
+                <text>胡同的宽窄也会受到经济因素的影响。如平安胡同，位于天穆村东北部，形成于1901年前后，因住有穆成平、穆成安兄弟，穆竹平、穆竹安兄弟，从兄弟名字各取一字，故爲平安胡同。平安胡同中部是穆静荪的义顺成号，养有大车，有大车门。该胡同原来有5-6米宽，能过汽车，后来五十年代随着农业合作化，大车门逐渐消失，各家盖房占用胡同，逐渐变窄，只能过一辆三轮车。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+      <tag tagId="4">
+        <name>胡同文化：街巷之间的日常</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="380" public="1" featured="0">
+    <fileContainer>
+      <file fileId="498">
+        <src>http://47.83.121.72/files/original/e5fc4093ed73cdc1372a439fe64fe1e3.png</src>
+        <authentication>bbe78f41127244dd5a69ac62544ae5e2</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="626">
+                <text>胡同文化：街巷之间的日常</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="627">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第110页。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="628">
+                <text>敬善胡同、维新胡同
+东天齐庙大街、德盛胡同、保和胡同、外园光明道旧照</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="629">
+                <text>每一条胡同的名字背后都有独特的历史文化内涵。如敬善胡同，位于天穆村东北部，因原有穆姓堂号“敬善堂”而得名。“敬善堂”建于1920-1930年间，立堂人爲正兴德茶庄经理穆雅田，穆姓居住敬善胡同8号。德盛胡同，位于天穆村北部，形成于1900年前后，当年穆文福、穆文玺兄弟在此开设“德盛号”羊圈，因此得名。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+      <tag tagId="4">
+        <name>胡同文化：街巷之间的日常</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="379" public="1" featured="0">
+    <fileContainer>
+      <file fileId="497">
+        <src>http://47.83.121.72/files/original/c7bb05181e01ecd56c0cc63ecc20606a.png</src>
+        <authentication>26459eb036b13c5d1e97882e6c3c1ab1</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="622">
+                <text>胡同文化：街巷之间的日常</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="623">
+                <text>收藏在村民黑俊志家中</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="624">
+                <text>天穆村门牌</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="625">
+                <text>天穆的聚落形态逐渐以寺坊爲中心向外层层展，也因之历史地形成了我国穆斯林围寺而居、依坊经商的分布格局。               村内里巷交错，胡同相接。穆庄子有两条东西向大街，即清真寺大街和天穆大街。从清真寺向东、南、西辐射出16条胡同，以乐善胡同爲中心，向东有平安、维善、敬善、德善、东小道5条胡同。向东向西有育德、明德、维新、育才、保和、义学、培养、单街子、新村9条胡同。寺前还有德盛胡同。天齐庙则有两条南北向大街，即天齐庙大街和东堤大街，包括10余条胡同，即穆家胡同、于家胡同、茶铺胡同、西坑沿、王家台、东堤大街、张家胡同、杨家胡同、寺前胡同和寺后胡同等。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+      <tag tagId="4">
+        <name>胡同文化：街巷之间的日常</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="378" public="1" featured="0">
+    <fileContainer>
+      <file fileId="496">
+        <src>http://47.83.121.72/files/original/cf21297ae5b3e9c3610ae0eb5d58b0af.png</src>
+        <authentication>f85b668a93569c907de9c9fadbaed823</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="618">
+                <text>胡同文化：街巷之间的日常</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="619">
+                <text>收藏在村民黑俊志家中</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="620">
+                <text>天穆村胡同牌</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="621">
+                <text>天穆的聚落形态逐渐以寺坊爲中心向外层层展，也因之历史地形成了我国穆斯林围寺而居、依坊经商的分布格局。               村内里巷交错，胡同相接。穆庄子有两条东西向大街，即清真寺大街和天穆大街。从清真寺向东、南、西辐射出16条胡同，以乐善胡同爲中心，向东有平安、维善、敬善、德善、东小道5条胡同。向东向西有育德、明德、维新、育才、保和、义学、培养、单街子、新村9条胡同。寺前还有德盛胡同。天齐庙则有两条南北向大街，即天齐庙大街和东堤大街，包括10余条胡同，即穆家胡同、于家胡同、茶铺胡同、西坑沿、王家台、东堤大街、张家胡同、杨家胡同、寺前胡同和寺后胡同等。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+      <tag tagId="4">
+        <name>胡同文化：街巷之间的日常</name>
+      </tag>
+    </tagContainer>
+  </item>
+</itemContainer>

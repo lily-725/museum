@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/browse?tags=%E8%88%9F%E8%BD%A6%E8%BE%90%E8%BE%8F%EF%BC%9A%E6%B0%B4%E9%99%86%E4%BA%A4%E6%B1%87%E5%A4%84%E7%9A%84%E8%A1%8C%E6%97%85%E7%94%9F%E8%AE%A1&amp;page=3&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:32:30+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/browse?tags=%E8%88%9F%E8%BD%A6%E8%BE%90%E8%BE%8F%EF%BC%9A%E6%B0%B4%E9%99%86%E4%BA%A4%E6%B1%87%E5%A4%84%E7%9A%84%E8%A1%8C%E6%97%85%E7%94%9F%E8%AE%A1&amp;page=3&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?tags=%E8%88%9F%E8%BD%A6%E8%BE%90%E8%BE%8F%EF%BC%9A%E6%B0%B4%E9%99%86%E4%BA%A4%E6%B1%87%E5%A4%84%E7%9A%84%E8%A1%8C%E6%97%85%E7%94%9F%E8%AE%A1&amp;page=3&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/2?tags=%E8%88%9F%E8%BD%A6%E8%BE%90%E8%BE%8F%EF%BC%9A%E6%B0%B4%E9%99%86%E4%BA%A4%E6%B1%87%E5%A4%84%E7%9A%84%E8%A1%8C%E6%97%85%E7%94%9F%E8%AE%A1&amp;page=3&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/3?tags=%E8%88%9F%E8%BD%A6%E8%BE%90%E8%BE%8F%EF%BC%9A%E6%B0%B4%E9%99%86%E4%BA%A4%E6%B1%87%E5%A4%84%E7%9A%84%E8%A1%8C%E6%97%85%E7%94%9F%E8%AE%A1&amp;page=3&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/470</id>
+    <title><![CDATA[马俊升对骑自行车驮羊头的回忆]]></title>
+    <updated>2026-02-05T21:32:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/470"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/1bd3b1f36a51255ea461aee568e56ce0.png" type="image/png" length="196240"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/89d6f6b0642a36f05b347858d57049ce.png" type="image/png" length="1152946"/>
+    <category term="双轮流转：驶过烽烟与市井"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">马俊升对骑自行车驮羊头的回忆</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">马俊升口述，马俊发整理：《驮羊头那些事》，转引自马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，第146-147页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/453</id>
+    <title><![CDATA[马拉轿车]]></title>
+    <updated>2026-02-05T21:32:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/453"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/4d9bf145e887b40f4114c62c7c5db8cb.png" type="image/png" length="963716"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <category term="马蹄扬尘：大车辚辚通远陌"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">马拉轿车</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第138页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/458</id>
+    <title><![CDATA[马绊]]></title>
+    <updated>2026-02-05T21:32:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/458"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/7f2af0867ecf2690fadda741a00fef28.png" type="image/png" length="127731"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <category term="马蹄扬尘：大车辚辚通远陌"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">马绊</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/454</id>
+    <title><![CDATA[马车拉货图示]]></title>
+    <updated>2026-02-05T21:32:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/454"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/9d1ebaa8ce92cd67673fb6b3cdb4261a.png" type="image/png" length="893676"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <category term="马蹄扬尘：大车辚辚通远陌"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">马车拉货图示</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第138页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/461</id>
+    <title><![CDATA[马铃]]></title>
+    <updated>2026-02-05T21:32:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/461"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/6fac93b6d90c54bd27816da2bc07e21a.png" type="image/png" length="134862"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <category term="马蹄扬尘：大车辚辚通远陌"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">马铃</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/456</id>
+    <title><![CDATA[马鞭]]></title>
+    <updated>2026-02-05T21:32:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/456"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/10085671db61b8515573b963185df9d7.png" type="image/png" length="194373"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <category term="马蹄扬尘：大车辚辚通远陌"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">马鞭</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

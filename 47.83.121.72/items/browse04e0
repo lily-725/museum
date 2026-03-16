@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/browse?tags=%E8%88%9F%E8%BD%A6%E8%BE%90%E8%BE%8F%EF%BC%9A%E6%B0%B4%E9%99%86%E4%BA%A4%E6%B1%87%E5%A4%84%E7%9A%84%E8%A1%8C%E6%97%85%E7%94%9F%E8%AE%A1&amp;page=2&amp;output=omeka-xml" accessDate="2026-03-16T19:06:12+08:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>2</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>26</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="462" public="1" featured="0">
+    <fileContainer>
+      <file fileId="609">
+        <src>http://47.83.121.72/files/original/e6e2c6bee62e4df595837f4816e82e7b.png</src>
+        <authentication>9b13f3db2f1a2620ab81f342d545949c</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="923">
+                <text>马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，中国文化出版社2017年版，第145页</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="924">
+                <text>天穆马车队社员合影</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="6">
+        <name>舟车辐辏：水陆交汇处的行旅生计</name>
+      </tag>
+      <tag tagId="8">
+        <name>马蹄扬尘：大车辚辚通远陌</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="461" public="1" featured="0">
+    <fileContainer>
+      <file fileId="608">
+        <src>http://47.83.121.72/files/original/6fac93b6d90c54bd27816da2bc07e21a.png</src>
+        <authentication>6a4d7de4af614fcbd35143dd712263cf</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="921">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="922">
+                <text>马铃</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="6">
+        <name>舟车辐辏：水陆交汇处的行旅生计</name>
+      </tag>
+      <tag tagId="8">
+        <name>马蹄扬尘：大车辚辚通远陌</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="460" public="1" featured="0">
+    <fileContainer>
+      <file fileId="607">
+        <src>http://47.83.121.72/files/original/b0ecebbda0b4f28be6a4db0d22028963.png</src>
+        <authentication>a2e0a1e37e75bf306de1df988f11f991</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="919">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="920">
+                <text>链嚼</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="6">
+        <name>舟车辐辏：水陆交汇处的行旅生计</name>
+      </tag>
+      <tag tagId="8">
+        <name>马蹄扬尘：大车辚辚通远陌</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="459" public="1" featured="0">
+    <fileContainer>
+      <file fileId="606">
+        <src>http://47.83.121.72/files/original/b0ef61e70a223e15a455654824d59434.png</src>
+        <authentication>e33b9d49ac8b4846ab083b62db3c43e2</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="917">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="918">
+                <text>软笼头</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="6">
+        <name>舟车辐辏：水陆交汇处的行旅生计</name>
+      </tag>
+      <tag tagId="8">
+        <name>马蹄扬尘：大车辚辚通远陌</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="458" public="1" featured="0">
+    <fileContainer>
+      <file fileId="605">
+        <src>http://47.83.121.72/files/original/7f2af0867ecf2690fadda741a00fef28.png</src>
+        <authentication>801cf231956491db979c807102559a39</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="915">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="916">
+                <text>马绊</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="6">
+        <name>舟车辐辏：水陆交汇处的行旅生计</name>
+      </tag>
+      <tag tagId="8">
+        <name>马蹄扬尘：大车辚辚通远陌</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="457" public="1" featured="0">
+    <fileContainer>
+      <file fileId="604">
+        <src>http://47.83.121.72/files/original/9007c5ff49d1284ea8ca5856f6c70002.png</src>
+        <authentication>0256d68130569ea3d41dfec2c7a48042</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="913">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="914">
+                <text>笼头夹板</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="6">
+        <name>舟车辐辏：水陆交汇处的行旅生计</name>
+      </tag>
+      <tag tagId="8">
+        <name>马蹄扬尘：大车辚辚通远陌</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="456" public="1" featured="0">
+    <fileContainer>
+      <file fileId="603">
+        <src>http://47.83.121.72/files/original/10085671db61b8515573b963185df9d7.png</src>
+        <authentication>cb323aebbc908dafa9a3d867e302e6ae</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="911">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第139-141页</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="912">
+                <text>马鞭</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="6">
+        <name>舟车辐辏：水陆交汇处的行旅生计</name>
+      </tag>
+      <tag tagId="8">
+        <name>马蹄扬尘：大车辚辚通远陌</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="455" public="1" featured="0">
+    <fileContainer>
+      <file fileId="602">
+        <src>http://47.83.121.72/files/original/43f5459b2c097c793e536c26043adfbc.png</src>
+        <authentication>88d5c9e701c2678c83c3035775e8b5cd</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="909">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第98页</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="910">
+                <text>大车门图示</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="6">
+        <name>舟车辐辏：水陆交汇处的行旅生计</name>
+      </tag>
+      <tag tagId="8">
+        <name>马蹄扬尘：大车辚辚通远陌</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="454" public="1" featured="0">
+    <fileContainer>
+      <file fileId="601">
+        <src>http://47.83.121.72/files/original/9d1ebaa8ce92cd67673fb6b3cdb4261a.png</src>
+        <authentication>d6322be39de7fbe65c55b52438dfa8a1</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="907">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第138页</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="908">
+                <text>马车拉货图示</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="6">
+        <name>舟车辐辏：水陆交汇处的行旅生计</name>
+      </tag>
+      <tag tagId="8">
+        <name>马蹄扬尘：大车辚辚通远陌</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="453" public="1" featured="0">
+    <fileContainer>
+      <file fileId="600">
+        <src>http://47.83.121.72/files/original/4d9bf145e887b40f4114c62c7c5db8cb.png</src>
+        <authentication>92efeaa16707cf7b031b07c46f92b195</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="905">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第138页</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="906">
+                <text>马拉轿车</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="6">
+        <name>舟车辐辏：水陆交汇处的行旅生计</name>
+      </tag>
+      <tag tagId="8">
+        <name>马蹄扬尘：大车辚辚通远陌</name>
+      </tag>
+    </tagContainer>
+  </item>
+</itemContainer>

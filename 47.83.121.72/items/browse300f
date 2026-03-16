@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/browse?tags=%E6%9E%95%E6%B2%B3%E8%80%8C%E5%B1%85%EF%BC%9A%E5%AF%BA%E5%9D%8A%E5%91%A8%E8%BE%B9%E7%9A%84%E5%AE%B6%E5%9B%AD%E4%B8%8E%E7%83%9F%E7%81%AB&amp;page=1&amp;sort_field=added&amp;sort_dir=a&amp;output=omeka-xml" accessDate="2026-03-16T19:29:25+08:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>1</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>32</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="358" public="1" featured="0">
+    <fileContainer>
+      <file fileId="476">
+        <src>http://47.83.121.72/files/original/2375ce8dddd84ca6c35d5409718a8b5b.png</src>
+        <authentication>235ea6331384397f793803c0935b4896</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="538">
+                <text>因河而生：天穆村历史地理溯源</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="539">
+                <text>天津市地方志编修委员会：《天津通志》旧志点校卷（上），天津：南开大学出版社，1999年，第460页。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="540">
+                <text>清道光二十六年（1846）穆家庄、东天齐庙、西天齐庙3村方位图</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="541">
+                <text>天穆村的最初形态与早期发展，是北运河自然地理与漕运经济共同塑造的产物。 村落所在的冲积平原是永定河与北运河的馈赠，“三面环水”的地理格局，不仅方便获取灌溉水源，更直接占据了漕运要道的核心区位。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="2">
+        <name>因河而生：天穆村历史地理溯源</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="359" public="1" featured="0">
+    <fileContainer>
+      <file fileId="477">
+        <src>http://47.83.121.72/files/original/4fe31fdc6e7cdfc78c69047602e3a536.png</src>
+        <authentication>d8d0813e546d7055fe35a73f9a504ca1</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="542">
+                <text>因河而生：天穆村历史地理溯源</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="543">
+                <text>《天津穆氏族谱》编修委员会收藏</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="544">
+                <text>明万历三十六年（1609）《穆太和族谱》</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="545">
+                <text>天穆村村名取自“天齐庙”和“穆庄子”两村的首字。明永乐二年（1404），浙江钱塘（今余杭）人穆重和随燕王朱棣北狩燕京，后至天津卫北十二里的地方占产落庄，置有穆家庄。明嘉靖年间（1522—1566），河南人周氏、单氏在穆家庄村南荒地落户，传说建“天齐庙”并以此爲名。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="2">
+        <name>因河而生：天穆村历史地理溯源</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="360" public="1" featured="0">
+    <fileContainer>
+      <file fileId="478">
+        <src>http://47.83.121.72/files/original/b19c646ff13d4d965ddeaf48e53bc53f.png</src>
+        <authentication>3cd0b661f631683dcdf5a94b8c0fd600</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="546">
+                <text>因河而生：天穆村历史地理溯源</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="547">
+                <text>2023年实地调研时所拍</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="548">
+                <text>天穆村穆瑞敬展示新修《穆氏族谱》</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="549">
+                <text>穆姓作为天穆村的第一大姓，最早能追溯到明朝初年锦衣卫穆天庆，穆天庆有五个儿子，在燕王靖难后由南京迁来北京、河北一带，五兄弟分散定居，老二穆重和落居在天津城十二里处穆家庄，成为如今天穆穆氏一世祖。穆重和育有二子：穆太、穆能，从第三代开始依照“玉枝英世仲，应思景从国朝兴，文成祥瑞怀德生”的字辈依次排辈，字辈排完后需重新接续，目前已接续“孝友为本伦常序，诗礼传家祖训良”字辈。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="2">
+        <name>因河而生：天穆村历史地理溯源</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="361" public="1" featured="0">
+    <fileContainer>
+      <file fileId="479">
+        <src>http://47.83.121.72/files/original/2d4148eeacc4492b19e6e9bd68554356.png</src>
+        <authentication>3dfa68da032c0f5dce279a3f7dff0c4d</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="550">
+                <text>因河而生：天穆村历史地理溯源</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="551">
+                <text>收藏在村民黑俊志家中</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="552">
+                <text>清光绪十三年（1887）五月十五日王穆氏卖地契约</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="553">
+                <text>这份地契记录了清光绪年间，穆家庄人王门穆氏将自家所有的部分土地卖给本宗王寿四永远爲业的情况。契中载明了土地数量，坐落地点，四至边界，价钱及卖后责任，当事人和见证人签字齐全，是清朝土地所有权转让的证明文件，属于未向官府纳税的白契。这份地契还记录了王穆氏在失去丈夫子女尚幼，生活困难卖地有“正用”的无奈之举。同时反映出中国穆斯林提倡男女平权，妻子有权处理丈夫留下遗产的史实。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="2">
+        <name>因河而生：天穆村历史地理溯源</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="362" public="1" featured="0">
+    <fileContainer>
+      <file fileId="480">
+        <src>http://47.83.121.72/files/original/231fcb70e7b5964694dbf11bf5fe96c5.png</src>
+        <authentication>dac93f017cc33a97bc95b3dba304859c</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="554">
+                <text>因河而生：天穆村历史地理溯源</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="555">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第34页。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="556">
+                <text>1946年1月民主天津区划图</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="557">
+                <text>雍正九年（1731），穆家庄、天齐庙两村属天津府天津县。光绪三十年（1904），直隶总督衙门设天津县四乡巡警总局，穆家庄、天齐庙村属北乡巡警总局四所第十九区辖。1937年8月至1945年8月，属日僞天津特别市八区；1945年9月至1946年1月，中共冀中区天津工作委员会决定设立天津县，穆家庄、天齐庙村属天津县四区辖；1946年3月，属国民党政府天津市三区辖。1949年1月天津解放后，三区政府派冯文林进驻穆家庄、天齐庙村，领导两村全面工作。1949年4月，分别建立村公所。1951年两村合并，村公所重新组合。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="2">
+        <name>因河而生：天穆村历史地理溯源</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="363" public="1" featured="0">
+    <fileContainer>
+      <file fileId="481">
+        <src>http://47.83.121.72/files/original/1abdf633153a4584354616d5155ddd4a.png</src>
+        <authentication>ce38cea73e3a9b219d75294ff45190e6</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="558">
+                <text>因河而生：天穆村历史地理溯源</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="559">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第36页。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="560">
+                <text>1958年4月北郊区区划图</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="561">
+                <text>雍正九年（1731），穆家庄、天齐庙两村属天津府天津县。光绪三十年（1904），直隶总督衙门设天津县四乡巡警总局，穆家庄、天齐庙村属北乡巡警总局四所第十九区辖。1937年8月至1945年8月，属日僞天津特别市八区；1945年9月至1946年1月，中共冀中区天津工作委员会决定设立天津县，穆家庄、天齐庙村属天津县四区辖；1946年3月，属国民党政府天津市三区辖。1949年1月天津解放后，三区政府派冯文林进驻穆家庄、天齐庙村，领导两村全面工作。1949年4月，分别建立村公所。1951年两村合并，村公所重新组合。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="2">
+        <name>因河而生：天穆村历史地理溯源</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="364" public="1" featured="0">
+    <fileContainer>
+      <file fileId="482">
+        <src>http://47.83.121.72/files/original/8eb42a89a514af098647aec6b95ac3ae.png</src>
+        <authentication>4cd85b210897a414918496759764a4f6</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="562">
+                <text>因河而生：天穆村历史地理溯源</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="563">
+                <text>村民穆瑞信手绘，王敬善、穆瑞良、王志麟对原图航拍后，天津大学建筑系毕业生刘春孟转换</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="564">
+                <text>20世纪50年代天穆村村落图</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="565">
+                <text>雍正九年（1731），穆家庄、天齐庙两村属天津府天津县。光绪三十年（1904），直隶总督衙门设天津县四乡巡警总局，穆家庄、天齐庙村属北乡巡警总局四所第十九区辖。1937年8月至1945年8月，属日僞天津特别市八区；1945年9月至1946年1月，中共冀中区天津工作委员会决定设立天津县，穆家庄、天齐庙村属天津县四区辖；1946年3月，属国民党政府天津市三区辖。1949年1月天津解放后，三区政府派冯文林进驻穆家庄、天齐庙村，领导两村全面工作。1949年4月，分别建立村公所。1951年两村合并，村公所重新组合。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="2">
+        <name>因河而生：天穆村历史地理溯源</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="365" public="1" featured="0">
+    <fileContainer>
+      <file fileId="483">
+        <src>http://47.83.121.72/files/original/3dbec93eba2b182ccf9ed71f08dec4bc.png</src>
+        <authentication>01721ddda456b07243573eddf21f2491</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="566">
+                <text>南北二寺：天穆村的信仰空间</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="567">
+                <text>村民刘玉森保存</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="568">
+                <text>穆家庄少年儿童在穆家庄回教礼拜寺前合影。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="569">
+                <text>建村之后，清真寺也随之兴建与扩建。清真寺作爲伊斯兰文化的有形载体，不仅是穆斯林宗教生活的核心，也是伊斯兰文化、经济和教育中心，还是千百年来伊斯兰教在中国兴衰的见证。清真北寺由穆重和父子建于明永乐二年(1404)，爲天津市最早的清真寺。清雍正十三年(1735)、嘉庆十年(1805)、1931年、1949年至1951年、1979年和1992年至1994年先后重修(建)。现有宝剎、前后中殿及配殿、沐浴房、门楼及望月楼，占地 4967 平方米，建筑面积1500平方米，大殿爲明清宫殿风格，木结构，可容纳千人聚礼。该寺侧院有清真女殿，张清元建于1931年。1948年12月25日，国民党六十二军以清除射界爲名，将天齐庙村、穆家庄及城郊13个村庄烧燬。天津解放后重建。1966年“文化大革命”期间水房改爲尺厂、大殿作爲生产车间，1976年唐山大地震时后殿受损。1997年，被评爲市级模范清真寺。2007年后随着天穆旧村改造，重建清真寺。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="3">
+        <name>南北二寺：天穆村的信仰空间</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="366" public="1" featured="0">
+    <fileContainer>
+      <file fileId="484">
+        <src>http://47.83.121.72/files/original/d12256cf26877b63958641ff192a96e9.png</src>
+        <authentication>4b8e21d4122bf9539d46c81800dcc5e5</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="570">
+                <text>南北二寺：天穆村的信仰空间</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="571">
+                <text>村民刘玉森保存</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="572">
+                <text>1930年代翻建重修的穆家庄回教礼拜寺，又名天穆清真北寺，保留了明清建筑风格，图爲南北讲堂、对厅、三门</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="573">
+                <text>建村之后，清真寺也随之兴建与扩建。清真寺作爲伊斯兰文化的有形载体，不仅是穆斯林宗教生活的核心，也是伊斯兰文化、经济和教育中心，还是千百年来伊斯兰教在中国兴衰的见证。清真北寺由穆重和父子建于明永乐二年(1404)，爲天津市最早的清真寺。清雍正十三年(1735)、嘉庆十年(1805)、1931年、1949年至1951年、1979年和1992年至1994年先后重修(建)。现有宝剎、前后中殿及配殿、沐浴房、门楼及望月楼，占地 4967 平方米，建筑面积1500平方米，大殿爲明清宫殿风格，木结构，可容纳千人聚礼。该寺侧院有清真女殿，张清元建于1931年。1948年12月5日，国民党六十二军以清除射界爲名，将天齐庙村、穆家庄及城郊13个村庄烧燬。天津解放后重建。1966年“文化大革命”期间水房改爲尺厂、大殿作爲生产车间，1976年唐山大地震时后殿受损。1997年，被评爲市级模范清真寺。2007年后随着天穆旧村改造，重建清真寺。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="3">
+        <name>南北二寺：天穆村的信仰空间</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="367" public="1" featured="0">
+    <fileContainer>
+      <file fileId="485">
+        <src>http://47.83.121.72/files/original/961e00cf8dc4315dd27736ba172e8af4.png</src>
+        <authentication>91a617f5b393e04e9690b52fd9919f6f</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="574">
+                <text>南北二寺：天穆村的信仰空间</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="575">
+                <text>村民刘玉森保存</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="576">
+                <text>1948年12月，国民党天津守军火烧后的清真北寺</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="577">
+                <text>建村之后，清真寺也随之兴建与扩建。清真寺作爲伊斯兰文化的有形载体，不仅是穆斯林宗教生活的核心，也是伊斯兰文化、经济和教育中心，还是千百年来伊斯兰教在中国兴衰的见证。清真北寺由穆重和父子建于明永乐二年(1404)，爲天津市最早的清真寺。清雍正十三年(1735)、嘉庆十年(1805)、1931年、1949年至1951年、1979年和1992年至1994年先后重修(建)。现有宝剎、前后中殿及配殿、沐浴房、门楼及望月楼，占地 4967 平方米，建筑面积1500平方米，大殿爲明清宫殿风格，木结构，可容纳千人聚礼。该寺侧院有清真女殿，张清元建于1931年。1948年12月25日，国民党六十二军以清除射界爲名，将天齐庙村、穆家庄及城郊13个村庄烧燬。天津解放后重建。1966年“文化大革命”期间水房改爲尺厂、大殿作爲生产车间，1976年唐山大地震时后殿受损。1997年，被评爲市级模范清真寺。2007年后随着天穆旧村改造，重建清真寺。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="3">
+        <name>南北二寺：天穆村的信仰空间</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+</itemContainer>

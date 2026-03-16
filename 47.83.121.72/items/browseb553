@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/browse?tags=%E7%89%9B%E7%BE%8A%E5%98%89%E9%A6%94%EF%BC%9A%E6%85%8E%E6%8B%A9%E6%83%9F%E8%89%AF%E5%A4%84%E7%9A%84%E7%83%9F%E7%81%AB%E9%A3%9F%E4%BA%8B&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:31:37+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/browse?tags=%E7%89%9B%E7%BE%8A%E5%98%89%E9%A6%94%EF%BC%9A%E6%85%8E%E6%8B%A9%E6%83%9F%E8%89%AF%E5%A4%84%E7%9A%84%E7%83%9F%E7%81%AB%E9%A3%9F%E4%BA%8B&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?tags=%E7%89%9B%E7%BE%8A%E5%98%89%E9%A6%94%EF%BC%9A%E6%85%8E%E6%8B%A9%E6%83%9F%E8%89%AF%E5%A4%84%E7%9A%84%E7%83%9F%E7%81%AB%E9%A3%9F%E4%BA%8B&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?tags=%E7%89%9B%E7%BE%8A%E5%98%89%E9%A6%94%EF%BC%9A%E6%85%8E%E6%8B%A9%E6%83%9F%E8%89%AF%E5%A4%84%E7%9A%84%E7%83%9F%E7%81%AB%E9%A3%9F%E4%BA%8B&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/3?tags=%E7%89%9B%E7%BE%8A%E5%98%89%E9%A6%94%EF%BC%9A%E6%85%8E%E6%8B%A9%E6%83%9F%E8%89%AF%E5%A4%84%E7%9A%84%E7%83%9F%E7%81%AB%E9%A3%9F%E4%BA%8B&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/3?tags=%E7%89%9B%E7%BE%8A%E5%98%89%E9%A6%94%EF%BC%9A%E6%85%8E%E6%8B%A9%E6%83%9F%E8%89%AF%E5%A4%84%E7%9A%84%E7%83%9F%E7%81%AB%E9%A3%9F%E4%BA%8B&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/484</id>
+    <title><![CDATA[卖糕点用的盘秤]]></title>
+    <updated>2026-02-05T21:33:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/484"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/6e5f17db8f68e38795553f820ee8e9aa.png" type="image/png" length="196327"/>
+    <category term="津沽百味：小吃里的烟火记忆"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">卖糕点用的盘秤</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/483</id>
+    <title><![CDATA[卖糕点用的盘秤]]></title>
+    <updated>2026-02-05T21:33:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/483"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/cbce0d48a49965a5decf2d777c15d085.png" type="image/png" length="195959"/>
+    <category term="津沽百味：小吃里的烟火记忆"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">卖糕点用的盘秤</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/482</id>
+    <title><![CDATA[切糕]]></title>
+    <updated>2026-02-05T21:33:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/482"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/209ad33cfcb845583ee87cd9bc9b1045.png" type="image/png" length="1391544"/>
+    <category term="津沽百味：小吃里的烟火记忆"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">切糕</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">图源网络https://www.sohu.com/a/227728100_355458</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/481</id>
+    <title><![CDATA[麻叶]]></title>
+    <updated>2026-02-05T21:32:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/481"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/f0851c0605d7d12db028d8d2893e9142.png" type="image/png" length="1465630"/>
+    <category term="津沽百味：小吃里的烟火记忆"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">麻叶</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">图源网络https://kknews.cc/zh-hk/food/n22ob93.html</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/480</id>
+    <title><![CDATA[油香]]></title>
+    <updated>2026-02-05T21:32:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/480"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/647697a95f2e44f7e1369bb0a9db417f.png" type="image/png" length="1111488"/>
+    <category term="津沽百味：小吃里的烟火记忆"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">油香</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">图源网络https://www.sohu.com/a/227728100_355458</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/479</id>
+    <title><![CDATA[百年老字号“盛斋元”]]></title>
+    <updated>2026-02-05T21:32:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/479"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/88ba2aa022bac7823192e4a811192634.png" type="image/png" length="709958"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/5cc026bef83208650e3c201b765da6aa.png" type="image/png" length="845585"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/98c15f802bcf53a2b27ef0052b19b6c3.png" type="image/png" length="920942"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/47cea4a32026baceb79ed4aff44e60b9.png" type="image/png" length="716657"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <category term="鲜腴牛羊：食以养性洁为本"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">百年老字号“盛斋元”</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">图源网络https://mp.weixin.qq.com/s/lhyyukz-TmwUSWt84MJCgQ</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/478</id>
+    <title><![CDATA[1937年天穆村人在市区经营牛羊肉铺情况表]]></title>
+    <updated>2026-02-05T21:32:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/478"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/2a130b8007428db27490a73ca7b15188.png" type="image/png" length="549728"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/a902f5ac15e63e7c857fc302ab731279.png" type="image/png" length="601374"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/aa98798f67640b095d17f22d5c4b992c.png" type="image/png" length="117577"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <category term="鲜腴牛羊：食以养性洁为本"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">1937年天穆村人在市区经营牛羊肉铺情况表</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">整理自《天津市牛羊肉铺“七七事变”前概况》，中国人民政治协商会议天津市委员会文史资料委员会编：《天津文史资料选集》第93辑，天津人民出版社2004年版，第143-153页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/477</id>
+    <title><![CDATA[《大公报》对开设屠宰分场的记载]]></title>
+    <updated>2026-02-05T21:32:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/477"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/1655f4b091c6b7cd5e93fcafeb23a57f.png" type="image/png" length="1196748"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <category term="鲜腴牛羊：食以养性洁为本"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">《大公报》对开设屠宰分场的记载</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">《大公报》天津版，1914年03月18日，第六版</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/476</id>
+    <title><![CDATA[卖牛羊肉的箱子]]></title>
+    <updated>2026-02-05T21:32:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/476"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/971b50fc149222e0dd6c3ff064828dab.png" type="image/png" length="279434"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <category term="鲜腴牛羊：食以养性洁为本"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">卖牛羊肉的箱子</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第147-149页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/475</id>
+    <title><![CDATA[刀棍及宰牛刀]]></title>
+    <updated>2026-02-05T21:32:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/475"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/77e924b837c8f8140f4b9c1216b8d4df.png" type="image/png" length="176714"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <category term="鲜腴牛羊：食以养性洁为本"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">刀棍及宰牛刀</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第147-149页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

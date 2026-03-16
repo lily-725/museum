@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="373" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/exhibits/show/------------/item/373?output=omeka-xml" accessDate="2026-03-16T18:49:15+08:00">
+  <fileContainer>
+    <file fileId="491">
+      <src>http://47.83.121.72/files/original/b03c1bc47045eb6b3df1b12cb53b97b3.png</src>
+      <authentication>5a99e383234b169e6cd9bff219cc0bdb</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="598">
+              <text>南北二寺：天穆村的信仰空间</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="599">
+              <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第130页。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="600">
+              <text>穆成仁(1921-1992)，1980年先后在天穆村和唐山清真寺担任教长。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="601">
+              <text>阿訇，爲波斯语中“有知识者”的音译，在中国回族穆斯林中被用来尊称主持清真寺与当地伊斯兰教教务的教职人员。在解放前的天穆村，阿訇享有崇高的威望。1958年“宗教改革”后，天穆村阿訇被取消教职，安排到各个工厂从事生产劳动，在“文革”期间极左思潮的影响下，不少曾经的阿訇都遭到迫害，改革开放后随着宗教生活的逐渐恢复，部分阿訇重新回到清真寺担任教职。在现行管理制度下，阿訇任期三年一届，通常由村民与清真寺民主管理委员会协商确定聘请人选，再由民管会出面联系上级民政部门进行聘请。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="3">
+      <name>南北二寺：天穆村的信仰空间</name>
+    </tag>
+    <tag tagId="1">
+      <name>枕河而居：寺坊周边的家园与烟火</name>
+    </tag>
+  </tagContainer>
+</item>

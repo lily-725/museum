@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="369" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/show/369?output=omeka-xml" accessDate="2026-03-16T18:56:13+08:00">
+  <fileContainer>
+    <file fileId="487">
+      <src>http://47.83.121.72/files/original/e1f36d059bc7bf4f38e4b04eeea072f7.png</src>
+      <authentication>5064cbf42ec6e1557b3390b9da2f57cf</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="582">
+              <text>南北二寺：天穆村的信仰空间</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="583">
+              <text>村民王敬善《津沽明珠 清真寺集锦》</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="584">
+              <text>2010年后清真北寺全景照</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="585">
+              <text>建村之后，清真寺也随之兴建与扩建。清真寺作爲伊斯兰文化的有形载体，不仅是穆斯林宗教生活的核心，也是伊斯兰文化、经济和教育中心，还是千百年来伊斯兰教在中国兴衰的见证。清真北寺由穆重和父子建于明永乐二年(1404)，爲天津市最早的清真寺。清雍正十三年(1735)、嘉庆十年(1805)、1931年、1949年至1951年、1979年和1992年至1994年先后重修(建)。现有宝剎、前后中殿及配殿、沐浴房、门楼及望月楼，占地 4967 平方米，建筑面积1500平方米，大殿爲明清宫殿风格，木结构，可容纳千人聚礼。该寺侧院有清真女殿，张清元建于1931年。1948年12月5日，国民党六十二军以清除射界爲名，将天齐庙村、穆家庄及城郊13个村庄烧燬。天津解放后重建。1966年“文化大革命”期间水房改爲尺厂、大殿作爲生产车间，1976年唐山大地震时后殿受损。1997年，被评爲市级模范清真寺。2007年后随着天穆旧村改造，重建清真寺。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="3">
+      <name>南北二寺：天穆村的信仰空间</name>
+    </tag>
+    <tag tagId="1">
+      <name>枕河而居：寺坊周边的家园与烟火</name>
+    </tag>
+  </tagContainer>
+</item>

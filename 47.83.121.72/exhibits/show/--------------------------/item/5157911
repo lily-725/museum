@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/exhibits/show/--------------------------/item/515?output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T18:54:40+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/exhibits/show/--------------------------/item/515?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/show/1?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/show/514?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/show/516?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/show/524?output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/515</id>
+    <title><![CDATA[房玉霞演唱天津时调《幸福晚年》]]></title>
+    <updated>2026-02-05T21:33:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/515"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/4c0abd555f81f05eea902602d7be4950.png" type="image/png" length="398343"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">房玉霞演唱天津时调《幸福晚年》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">天穆镇公衆号https://mp.weixin.qq.com/s/E7FM6B2ernCqd0cfPemktA</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

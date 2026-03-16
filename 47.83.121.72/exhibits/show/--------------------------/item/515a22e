@@ -1,0 +1,9 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/515">
+<dc:title>房玉霞演唱天津时调《幸福晚年》</dc:title>
+<dc:source>天穆镇公衆号https://mp.weixin.qq.com/s/E7FM6B2ernCqd0cfPemktA</dc:source>
+</rdf:Description></rdf:RDF>

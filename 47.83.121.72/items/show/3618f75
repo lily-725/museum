@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="361" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/show/361?output=omeka-xml" accessDate="2026-03-16T18:47:28+08:00">
+  <fileContainer>
+    <file fileId="479">
+      <src>http://47.83.121.72/files/original/2d4148eeacc4492b19e6e9bd68554356.png</src>
+      <authentication>3dfa68da032c0f5dce279a3f7dff0c4d</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="550">
+              <text>因河而生：天穆村历史地理溯源</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="551">
+              <text>收藏在村民黑俊志家中</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="552">
+              <text>清光绪十三年（1887）五月十五日王穆氏卖地契约</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="553">
+              <text>这份地契记录了清光绪年间，穆家庄人王门穆氏将自家所有的部分土地卖给本宗王寿四永远爲业的情况。契中载明了土地数量，坐落地点，四至边界，价钱及卖后责任，当事人和见证人签字齐全，是清朝土地所有权转让的证明文件，属于未向官府纳税的白契。这份地契还记录了王穆氏在失去丈夫子女尚幼，生活困难卖地有“正用”的无奈之举。同时反映出中国穆斯林提倡男女平权，妻子有权处理丈夫留下遗产的史实。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="2">
+      <name>因河而生：天穆村历史地理溯源</name>
+    </tag>
+    <tag tagId="1">
+      <name>枕河而居：寺坊周边的家园与烟火</name>
+    </tag>
+  </tagContainer>
+</item>

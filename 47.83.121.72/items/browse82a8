@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/browse?page=12&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=omeka-xml" accessDate="2026-03-16T19:51:57+08:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>12</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>111</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="481" public="1" featured="0">
+    <fileContainer>
+      <file fileId="633">
+        <src>http://47.83.121.72/files/original/f0851c0605d7d12db028d8d2893e9142.png</src>
+        <authentication>1776ac6bf4c01706f2143dec52cddd29</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="961">
+                <text>图源网络https://kknews.cc/zh-hk/food/n22ob93.html</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="962">
+                <text>麻叶</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="12">
+        <name>津沽百味：小吃里的烟火记忆</name>
+      </tag>
+      <tag tagId="10">
+        <name>牛羊嘉馔：慎择惟良处的烟火食事</name>
+      </tag>
+    </tagContainer>
+  </item>
+</itemContainer>

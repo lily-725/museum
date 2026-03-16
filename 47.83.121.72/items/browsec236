@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/browse?tags=%E6%9E%95%E6%B2%B3%E8%80%8C%E5%B1%85%EF%BC%9A%E5%AF%BA%E5%9D%8A%E5%91%A8%E8%BE%B9%E7%9A%84%E5%AE%B6%E5%9B%AD%E4%B8%8E%E7%83%9F%E7%81%AB&amp;page=4&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=omeka-xml" accessDate="2026-03-16T19:43:06+08:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>4</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>32</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="366" public="1" featured="0">
+    <fileContainer>
+      <file fileId="484">
+        <src>http://47.83.121.72/files/original/d12256cf26877b63958641ff192a96e9.png</src>
+        <authentication>4b8e21d4122bf9539d46c81800dcc5e5</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="570">
+                <text>南北二寺：天穆村的信仰空间</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="571">
+                <text>村民刘玉森保存</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="572">
+                <text>1930年代翻建重修的穆家庄回教礼拜寺，又名天穆清真北寺，保留了明清建筑风格，图爲南北讲堂、对厅、三门</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="573">
+                <text>建村之后，清真寺也随之兴建与扩建。清真寺作爲伊斯兰文化的有形载体，不仅是穆斯林宗教生活的核心，也是伊斯兰文化、经济和教育中心，还是千百年来伊斯兰教在中国兴衰的见证。清真北寺由穆重和父子建于明永乐二年(1404)，爲天津市最早的清真寺。清雍正十三年(1735)、嘉庆十年(1805)、1931年、1949年至1951年、1979年和1992年至1994年先后重修(建)。现有宝剎、前后中殿及配殿、沐浴房、门楼及望月楼，占地 4967 平方米，建筑面积1500平方米，大殿爲明清宫殿风格，木结构，可容纳千人聚礼。该寺侧院有清真女殿，张清元建于1931年。1948年12月5日，国民党六十二军以清除射界爲名，将天齐庙村、穆家庄及城郊13个村庄烧燬。天津解放后重建。1966年“文化大革命”期间水房改爲尺厂、大殿作爲生产车间，1976年唐山大地震时后殿受损。1997年，被评爲市级模范清真寺。2007年后随着天穆旧村改造，重建清真寺。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="3">
+        <name>南北二寺：天穆村的信仰空间</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="370" public="1" featured="0">
+    <fileContainer>
+      <file fileId="488">
+        <src>http://47.83.121.72/files/original/04827e03f993eb03afd0a97e6e652e8e.png</src>
+        <authentication>4f205500bdfbc18bd812606e03edffc7</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="586">
+                <text>南北二寺：天穆村的信仰空间</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="587">
+                <text>魏积良主编：《天穆清真南寺简史》，北京：中国文化出版社，2018年，在序之前，无页码。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="588">
+                <text>1854-1948年天齐庙村清真寺外貌</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="589">
+                <text>清真南寺由穆家庄人穆朝正（穆六巴）于咸丰四年出资修建，并卷地100余亩，供寺内十几位学员费用。因位于天齐庙村，故始称天齐庙村清真寺。1928年修缮，大殿、南北讲堂、沐浴室、报时亭和望月楼占地1600平方米，大殿可容 500人同时礼拜，寺旁有清真女寺。1948年，与清真北寺一同被焚毁，天津解放后重建。1958年在“宗教改革”运动中以“一村一寺、减少矛盾”爲托词取缔了天穆清真南寺的宗教活动，并开办爲工厂。改革开放后，拨乱反正，党的民族宗教政策得以落实，清真南寺恢复宗教活动。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="3">
+        <name>南北二寺：天穆村的信仰空间</name>
+      </tag>
+      <tag tagId="1">
+        <name>枕河而居：寺坊周边的家园与烟火</name>
+      </tag>
+    </tagContainer>
+  </item>
+</itemContainer>

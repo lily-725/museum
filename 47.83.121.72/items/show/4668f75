@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="466" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/show/466?output=omeka-xml" accessDate="2026-03-16T18:57:01+08:00">
+  <fileContainer>
+    <file fileId="613">
+      <src>http://47.83.121.72/files/original/fd4e88cb1240e41e3f198b864a574e14.png</src>
+      <authentication>3198ad77f96cc25ee4e6ca47766eebb2</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="931">
+              <text>马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，第319页</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="932">
+              <text>参与过走“DDT”的穆祥增老人</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="9">
+      <name>双轮流转：驶过烽烟与市井</name>
+    </tag>
+    <tag tagId="6">
+      <name>舟车辐辏：水陆交汇处的行旅生计</name>
+    </tag>
+  </tagContainer>
+</item>

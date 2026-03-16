@@ -1,0 +1,9 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/470">
+<dc:title>马俊升对骑自行车驮羊头的回忆</dc:title>
+<dc:source>马俊升口述，马俊发整理：《驮羊头那些事》，转引自马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，第146-147页</dc:source>
+</rdf:Description></rdf:RDF>

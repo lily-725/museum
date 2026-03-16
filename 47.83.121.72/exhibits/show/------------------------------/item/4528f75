@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="452" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/exhibits/show/------------------------------/item/452?output=omeka-xml" accessDate="2026-03-16T18:50:47+08:00">
+  <fileContainer>
+    <file fileId="599">
+      <src>http://47.83.121.72/files/original/5e262990595bb3cfc58e41944d6c964a.png</src>
+      <authentication>43da9718b55eaee1a2bde5bba429e63e</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="903">
+              <text>天津市档案馆藏，401206800-J0128-2-001657-014</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="904">
+              <text>《为设立顺直属通利河运公司事给天津市商务总会的咨》</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="7">
+      <name>水运舟行：北运河上帆影长</name>
+    </tag>
+    <tag tagId="6">
+      <name>舟车辐辏：水陆交汇处的行旅生计</name>
+    </tag>
+  </tagContainer>
+</item>

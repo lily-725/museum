@@ -1,0 +1,9 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/508">
+<dc:title>穆成宽1941年在西侨游泳赛中压倒西人获得冠军</dc:title>
+<dc:source>《穆成宽压倒西人》，《东亚晨报》，1941年8月25日，第5版。</dc:source>
+</rdf:Description></rdf:RDF>

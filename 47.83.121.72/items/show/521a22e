@@ -1,0 +1,10 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/521">
+<dc:title>第七届“天穆杯”书画展在天津北方文化艺术品交易中心开幕</dc:title>
+<dc:source>《第七届“天穆杯”书画展在天津开幕 尽显民族风情》，天津美术网，
+https://mp.weixin.qq.com/s/YQPBZTCNuffXvzQLR9VQZQ</dc:source>
+</rdf:Description></rdf:RDF>

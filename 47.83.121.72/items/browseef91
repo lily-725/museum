@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/browse?page=8&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:45:25+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/browse?page=8&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?page=8&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/7?page=8&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/9?page=8&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/12?page=8&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/484</id>
+    <title><![CDATA[卖糕点用的盘秤]]></title>
+    <updated>2026-02-05T21:33:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/484"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/6e5f17db8f68e38795553f820ee8e9aa.png" type="image/png" length="196327"/>
+    <category term="津沽百味：小吃里的烟火记忆"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">卖糕点用的盘秤</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/485</id>
+    <title><![CDATA[卖冰棍箱子]]></title>
+    <updated>2026-02-05T21:33:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/485"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/4782ad7b5d236902250a76630b3ebb6b.png" type="image/png" length="227393"/>
+    <category term="津沽百味：小吃里的烟火记忆"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">卖冰棍箱子</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149-150页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/486</id>
+    <title><![CDATA[卖乌豆箱子]]></title>
+    <updated>2026-02-05T21:33:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/486"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/b1e08d79c1f5c0250382e3f7c2876819.png" type="image/png" length="315657"/>
+    <category term="津沽百味：小吃里的烟火记忆"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">卖乌豆箱子</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149-150页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/487</id>
+    <title><![CDATA[糕点模具]]></title>
+    <updated>2026-02-05T21:33:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/487"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/d9ee762e46efe98f9c39048ab28ece9f.png" type="image/png" length="207581"/>
+    <category term="津沽百味：小吃里的烟火记忆"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">糕点模具</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149-150页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/488</id>
+    <title><![CDATA[糖堆架]]></title>
+    <updated>2026-02-05T21:33:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/488"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/cc0b247a9bd620cf9345a225da14d84b.png" type="image/png" length="216211"/>
+    <category term="津沽百味：小吃里的烟火记忆"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">糖堆架</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，第149-150页</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/489</id>
+    <title><![CDATA[开斋节]]></title>
+    <updated>2026-02-05T21:33:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/489"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/32218bd39892001699c69ba4f8f46bd0.png" type="image/png" length="1055607"/>
+    <category term="岁时庆典：一碗甘馐见真淳"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">开斋节</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">图源网络https://mp.weixin.qq.com/s/TWQEWmkQBQ4fc7gRSeU0bg</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/490</id>
+    <title><![CDATA[开斋节]]></title>
+    <updated>2026-02-05T21:33:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/490"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/1759831a349de49d827bdd3f29103c17.png" type="image/png" length="1226014"/>
+    <category term="岁时庆典：一碗甘馐见真淳"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">开斋节</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">图源网络https://mp.weixin.qq.com/s/TWQEWmkQBQ4fc7gRSeU0bg</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/491</id>
+    <title><![CDATA[开斋节]]></title>
+    <updated>2026-02-05T21:33:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/491"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/829845a96ac2496d8064c9ae1faae9f6.png" type="image/png" length="1087180"/>
+    <category term="岁时庆典：一碗甘馐见真淳"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">开斋节</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">图源网络https://mp.weixin.qq.com/s/TWQEWmkQBQ4fc7gRSeU0bg</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/492</id>
+    <title><![CDATA[古尔邦节]]></title>
+    <updated>2026-02-05T21:33:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/492"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/a780728aa463fe179bb5e1a0228222a5.png" type="image/png" length="3373966"/>
+    <category term="岁时庆典：一碗甘馐见真淳"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">古尔邦节</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">王敬善摄</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/493</id>
+    <title><![CDATA[古尔邦节]]></title>
+    <updated>2026-02-05T21:33:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/493"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/0d8a61b335489d15632b591be7ac85e1.png" type="image/png" length="892716"/>
+    <category term="岁时庆典：一碗甘馐见真淳"/>
+    <category term="牛羊嘉馔：慎择惟良处的烟火食事"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">古尔邦节</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">图源网络https://mp.weixin.qq.com/s/BjCEaGHUT2YliSXUYf1Cxw</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/exhibits/show/------------/item/384?output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T18:49:52+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/exhibits/show/------------/item/384?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/show/1?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/show/383?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/show/385?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/show/524?output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/384</id>
+    <title><![CDATA[门楣杜哇]]></title>
+    <summary><![CDATA[“杜哇”，是阿拉伯语音译，意为“祈祷”。经文杜哇就是阿拉伯文的祈祷，在回族穆斯林家庭和清真饭店的门楣上都书写或悬挂张贴着一段经文杜哇。图示分别爲花体和正常体的阿拉伯文门楣杜哇，花体的门楣杜哇因似花画而不易被看出是经文，在“宗教改革”和“文化大革命”时期未因宗教原因受损毁。]]></summary>
+    <updated>2026-02-05T16:21:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/384"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/8f89244da7784195ac9d3fe587d9312f.png" type="image/png" length="523081"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <category term="胡同文化：街巷之间的日常"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">门楣杜哇</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">“杜哇”，是阿拉伯语音译，意为“祈祷”。经文杜哇就是阿拉伯文的祈祷，在回族穆斯林家庭和清真饭店的门楣上都书写或悬挂张贴着一段经文杜哇。图示分别爲花体和正常体的阿拉伯文门楣杜哇，花体的门楣杜哇因似花画而不易被看出是经文，在“宗教改革”和“文化大革命”时期未因宗教原因受损毁。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">收藏在村民黑俊志家中</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">胡同文化：街巷之间的日常</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

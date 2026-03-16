@@ -1,0 +1,11 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/361">
+<dc:title>清光绪十三年（1887）五月十五日王穆氏卖地契约</dc:title>
+<dc:subject>因河而生：天穆村历史地理溯源</dc:subject>
+<dc:description>这份地契记录了清光绪年间，穆家庄人王门穆氏将自家所有的部分土地卖给本宗王寿四永远爲业的情况。契中载明了土地数量，坐落地点，四至边界，价钱及卖后责任，当事人和见证人签字齐全，是清朝土地所有权转让的证明文件，属于未向官府纳税的白契。这份地契还记录了王穆氏在失去丈夫子女尚幼，生活困难卖地有“正用”的无奈之举。同时反映出中国穆斯林提倡男女平权，妻子有权处理丈夫留下遗产的史实。</dc:description>
+<dc:source>收藏在村民黑俊志家中</dc:source>
+</rdf:Description></rdf:RDF>

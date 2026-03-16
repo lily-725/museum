@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/browse?tags=%E6%96%B0%E6%9C%88%E4%B8%8B%E7%9A%84%E6%88%90%E9%95%BF%EF%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2%E4%B8%8E%E6%96%87%E8%89%BA%E4%BD%93%E8%82%B2&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:28:52+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/browse?tags=%E6%96%B0%E6%9C%88%E4%B8%8B%E7%9A%84%E6%88%90%E9%95%BF%EF%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2%E4%B8%8E%E6%96%87%E8%89%BA%E4%BD%93%E8%82%B2&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?tags=%E6%96%B0%E6%9C%88%E4%B8%8B%E7%9A%84%E6%88%90%E9%95%BF%EF%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2%E4%B8%8E%E6%96%87%E8%89%BA%E4%BD%93%E8%82%B2&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?tags=%E6%96%B0%E6%9C%88%E4%B8%8B%E7%9A%84%E6%88%90%E9%95%BF%EF%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2%E4%B8%8E%E6%96%87%E8%89%BA%E4%BD%93%E8%82%B2&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/3?tags=%E6%96%B0%E6%9C%88%E4%B8%8B%E7%9A%84%E6%88%90%E9%95%BF%EF%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2%E4%B8%8E%E6%96%87%E8%89%BA%E4%BD%93%E8%82%B2&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/3?tags=%E6%96%B0%E6%9C%88%E4%B8%8B%E7%9A%84%E6%88%90%E9%95%BF%EF%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2%E4%B8%8E%E6%96%87%E8%89%BA%E4%BD%93%E8%82%B2&amp;page=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/505</id>
+    <title><![CDATA[1997年10月15日，沙特、阿联酋、卡塔尔等海湾国家文化考察团考察民族职专]]></title>
+    <updated>2026-02-05T21:33:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/505"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/d444f5f6704190ae4ebe610815ebcc8f.png" type="image/png" length="77647"/>
+    <category term="新学育人：从小学到职校"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">1997年10月15日，沙特、阿联酋、卡塔尔等海湾国家文化考察团考察民族职专</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第101页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/506</id>
+    <title><![CDATA[穆成宽1935年在天津市青年会主办的公开脚踏车赛获冠军]]></title>
+    <updated>2026-02-05T21:33:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/506"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/01d2d40edc26eaf2f24daf45b39b715b.png" type="image/png" length="566099"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">穆成宽1935年在天津市青年会主办的公开脚踏车赛获冠军</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">《青年会主办脚踏车赛昨举行观衆万余人极一时之盛冠军男穆成宽女林秀莲》，《大公报》天津版，1935年05月27日，第八版。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/507</id>
+    <title><![CDATA[穆成宽1937年在天津市公开游泳赛中打破四项纪录]]></title>
+    <updated>2026-02-05T21:33:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/507"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/1b9d7bd0420bd19811bc09dd1cb83ef7.png" type="image/png" length="305027"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">穆成宽1937年在天津市公开游泳赛中打破四项纪录</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">张克强：《本市公开游泳赛，打破四项纪录个人总分第一名穆成宽》，《天津商报画刊》第24卷第36期，1937年，第2页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/508</id>
+    <title><![CDATA[穆成宽1941年在西侨游泳赛中压倒西人获得冠军]]></title>
+    <updated>2026-02-05T21:33:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/508"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/1ac5e3280f10a248923b74a8bdb4c130.png" type="image/png" length="742799"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">穆成宽1941年在西侨游泳赛中压倒西人获得冠军</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">《穆成宽压倒西人》，《东亚晨报》，1941年8月25日，第5版。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/509</id>
+    <title><![CDATA[罗金龙在天津市公开男女游泳赛中获得六十单程冠军]]></title>
+    <updated>2026-02-05T21:33:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/509"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/6ca468ff8926f32f3d6d6b76ac4fa257.png" type="image/png" length="416303"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">罗金龙在天津市公开男女游泳赛中获得六十单程冠军</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">《公开游泳赛昨举行男女各组几均为穆氏天下六十单程罗金龙冠军》，《大公报》天津版，1947年9月1日，第五版。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/510</id>
+    <title><![CDATA[1959年，穆祥雄以1分11秒1的成绩第三次打破由他本人创造的100米男子蛙泳世界纪录]]></title>
+    <updated>2026-02-05T21:33:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/510"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/0ef9159ddeaf830e666f034ebe66e23f.png" type="image/png" length="263811"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">1959年，穆祥雄以1分11秒1的成绩第三次打破由他本人创造的100米男子蛙泳世界纪录</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">《穆祥雄再创百米蛙泳世界纪录》，《人民日报》，1959年9月18日，第七版。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/511</id>
+    <title><![CDATA[1962年毛泽东主席在中南海接见穆祥雄]]></title>
+    <updated>2026-02-05T21:33:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/511"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/359a721f39f31e6bfee81bd558e3b0d5.png" type="image/png" length="145814"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">1962年毛泽东主席在中南海接见穆祥雄</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">天津市北辰区天穆村志编修委员会编：《天穆村志》，天津：北辰区天穆村志编修委员会，2006年，第9页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/512</id>
+    <title><![CDATA[天穆花键队参加各种比赛荣获的奖状、奖杯等]]></title>
+    <updated>2026-02-05T21:33:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/512"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/05ab53002587f28800360b6613e84b95.png" type="image/png" length="437997"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆花键队参加各种比赛荣获的奖状、奖杯等</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第107页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/513</id>
+    <title><![CDATA[穆丹，曾将花毽带进了2008年北京奥运会表演。]]></title>
+    <updated>2026-02-05T21:33:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/513"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/5b71b4038b831b657bd79dd6879ffdaf.png" type="image/png" length="325680"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">穆丹，曾将花毽带进了2008年北京奥运会表演。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">央视网CCTV7 《花毽王 穆丹》专题片<br />
+https://tv.cctv.com/2010/08/01/VIDE2vDPjMemgUK48BU8YIzs100801.shtml</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/514</id>
+    <title><![CDATA[国家级非物质文化遗产代表性项目 花毽（穆氏花键）]]></title>
+    <updated>2026-02-05T21:33:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/514"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/6beb27be635f51f06ea7d701e7bf3bbf.png" type="image/png" length="2599898"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">国家级非物质文化遗产代表性项目 花毽（穆氏花键）</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">穆怀良主编：《花毽·穆氏花毽 八项基本功规则》，内部出版，2025年。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

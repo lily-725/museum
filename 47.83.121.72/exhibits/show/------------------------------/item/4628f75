@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="462" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/exhibits/show/------------------------------/item/462?output=omeka-xml" accessDate="2026-03-16T18:51:27+08:00">
+  <fileContainer>
+    <file fileId="609">
+      <src>http://47.83.121.72/files/original/e6e2c6bee62e4df595837f4816e82e7b.png</src>
+      <authentication>9b13f3db2f1a2620ab81f342d545949c</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="923">
+              <text>马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，中国文化出版社2017年版，第145页</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="924">
+              <text>天穆马车队社员合影</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="6">
+      <name>舟车辐辏：水陆交汇处的行旅生计</name>
+    </tag>
+    <tag tagId="8">
+      <name>马蹄扬尘：大车辚辚通远陌</name>
+    </tag>
+  </tagContainer>
+</item>

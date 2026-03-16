@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="358" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/exhibits/show/------------/item/358?output=omeka-xml" accessDate="2026-03-16T18:48:15+08:00">
+  <fileContainer>
+    <file fileId="476">
+      <src>http://47.83.121.72/files/original/2375ce8dddd84ca6c35d5409718a8b5b.png</src>
+      <authentication>235ea6331384397f793803c0935b4896</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="538">
+              <text>因河而生：天穆村历史地理溯源</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="539">
+              <text>天津市地方志编修委员会：《天津通志》旧志点校卷（上），天津：南开大学出版社，1999年，第460页。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="540">
+              <text>清道光二十六年（1846）穆家庄、东天齐庙、西天齐庙3村方位图</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="541">
+              <text>天穆村的最初形态与早期发展，是北运河自然地理与漕运经济共同塑造的产物。 村落所在的冲积平原是永定河与北运河的馈赠，“三面环水”的地理格局，不仅方便获取灌溉水源，更直接占据了漕运要道的核心区位。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="2">
+      <name>因河而生：天穆村历史地理溯源</name>
+    </tag>
+    <tag tagId="1">
+      <name>枕河而居：寺坊周边的家园与烟火</name>
+    </tag>
+  </tagContainer>
+</item>

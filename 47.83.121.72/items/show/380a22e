@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/380">
+<dc:title>敬善胡同、维新胡同
+东天齐庙大街、德盛胡同、保和胡同、外园光明道旧照</dc:title>
+<dc:subject>胡同文化：街巷之间的日常</dc:subject>
+<dc:description>每一条胡同的名字背后都有独特的历史文化内涵。如敬善胡同，位于天穆村东北部，因原有穆姓堂号“敬善堂”而得名。“敬善堂”建于1920-1930年间，立堂人爲正兴德茶庄经理穆雅田，穆姓居住敬善胡同8号。德盛胡同，位于天穆村北部，形成于1900年前后，当年穆文福、穆文玺兄弟在此开设“德盛号”羊圈，因此得名。</dc:description>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第110页。</dc:source>
+</rdf:Description></rdf:RDF>

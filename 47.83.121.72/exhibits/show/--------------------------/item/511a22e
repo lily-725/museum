@@ -1,0 +1,9 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/511">
+<dc:title>1962年毛泽东主席在中南海接见穆祥雄</dc:title>
+<dc:source>天津市北辰区天穆村志编修委员会编：《天穆村志》，天津：北辰区天穆村志编修委员会，2006年，第9页。</dc:source>
+</rdf:Description></rdf:RDF>

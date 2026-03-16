@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="383" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/show/383?output=omeka-xml" accessDate="2026-03-16T19:02:33+08:00">
+  <fileContainer>
+    <file fileId="501">
+      <src>http://47.83.121.72/files/original/c9451f1739e03f202d3e7071db2d2e66.png</src>
+      <authentication>bb7e5bf54db9c236f219bca0f07c993f</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="638">
+              <text>胡同文化：街巷之间的日常</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="639">
+              <text>根据村民穆成铮回忆，穆瑞波绘图</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="640">
+              <text>穆朝正（约1820-1905），在天齐庙村北运河畔盖起大宅院</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="641">
+              <text>村内标志性建筑，除南、北两座清真寺外，自清代起，村中有十几家富户曾建起大小四合套院不下十余处，相对于当时绝大多数村民的土坯房，这些四合套院，犹似鹤立鸡群。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="1">
+      <name>枕河而居：寺坊周边的家园与烟火</name>
+    </tag>
+    <tag tagId="4">
+      <name>胡同文化：街巷之间的日常</name>
+    </tag>
+  </tagContainer>
+</item>

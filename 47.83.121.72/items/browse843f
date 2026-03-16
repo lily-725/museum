@@ -1,0 +1,45 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/474">
+<dc:title>卖牛羊杂碎三件套</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第147-149页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/473">
+<dc:title>牛羊类刀具</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第147-149页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/472">
+<dc:title>伊斯兰典籍《天方典礼择要解》对饮食的记述</dc:title>
+<dc:source>（清）刘智撰：《天方典礼择要解》，同治十年刊本，第1页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/471">
+<dc:title>《古兰经》对饮食的要求</dc:title>
+<dc:source>马坚译：《古兰经》，中国社会科学出版社1996年版，第102页。</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/470">
+<dc:title>马俊升对骑自行车驮羊头的回忆</dc:title>
+<dc:source>马俊升口述，马俊发整理：《驮羊头那些事》，转引自马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，第146-147页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/469">
+<dc:title>“铁驴”自行车</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第148页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/468">
+<dc:title>穆怀安对走“DDT”的回忆</dc:title>
+<dc:source>穆怀安口述，马俊发整理：《回忆当年走“滴滴涕”》，转引自马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，第328-329页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/467">
+<dc:title>1947年10月16日国民政府查天穆村为共产党军队运送军火</dc:title>
+<dc:source>天津市档案馆藏，401206800-J0002-3-007276-016</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/466">
+<dc:title>参与过走“DDT”的穆祥增老人</dc:title>
+<dc:source>马俊发、穆瑞波、高耀宽编著：《天穆村回族史—口述史料汇编》，第319页</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="http://47.83.121.72/items/show/465">
+<dc:title>存自行车牌</dc:title>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，第142、148页</dc:source>
+</rdf:Description></rdf:RDF>

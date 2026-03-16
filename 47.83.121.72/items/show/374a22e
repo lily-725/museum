@@ -1,0 +1,11 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/374">
+<dc:title>王景光(1926-2003)，1981年起在天津市区、津南、武清等地清真寺任教长。</dc:title>
+<dc:subject>南北二寺：天穆村的信仰空间</dc:subject>
+<dc:description>阿訇，爲波斯语中“有知识者”的音译，在中国回族穆斯林中被用来尊称主持清真寺与当地伊斯兰教教务的教职人员。在解放前的天穆村，阿訇享有崇高的威望。1958年“宗教改革”后，天穆村阿訇被取消教职，安排到各个工厂从事生产劳动，在“文革”期间极左思潮的影响下，不少曾经的阿訇都遭到迫害，改革开放后随着宗教生活的逐渐恢复，部分阿訇重新回到清真寺担任教职。在现行管理制度下，阿訇任期三年一届，通常由村民与清真寺民主管理委员会协商确定聘请人选，再由民管会出面联系上级民政部门进行聘请。</dc:description>
+<dc:source>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第131页。</dc:source>
+</rdf:Description></rdf:RDF>

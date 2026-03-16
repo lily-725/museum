@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="380" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/show/380?output=omeka-xml" accessDate="2026-03-16T19:02:45+08:00">
+  <fileContainer>
+    <file fileId="498">
+      <src>http://47.83.121.72/files/original/e5fc4093ed73cdc1372a439fe64fe1e3.png</src>
+      <authentication>bbe78f41127244dd5a69ac62544ae5e2</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="626">
+              <text>胡同文化：街巷之间的日常</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="627">
+              <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第110页。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="628">
+              <text>敬善胡同、维新胡同
+东天齐庙大街、德盛胡同、保和胡同、外园光明道旧照</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="629">
+              <text>每一条胡同的名字背后都有独特的历史文化内涵。如敬善胡同，位于天穆村东北部，因原有穆姓堂号“敬善堂”而得名。“敬善堂”建于1920-1930年间，立堂人爲正兴德茶庄经理穆雅田，穆姓居住敬善胡同8号。德盛胡同，位于天穆村北部，形成于1900年前后，当年穆文福、穆文玺兄弟在此开设“德盛号”羊圈，因此得名。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="1">
+      <name>枕河而居：寺坊周边的家园与烟火</name>
+    </tag>
+    <tag tagId="4">
+      <name>胡同文化：街巷之间的日常</name>
+    </tag>
+  </tagContainer>
+</item>

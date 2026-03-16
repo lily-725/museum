@@ -1,0 +1,11 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/389">
+<dc:title>北寺居委会社区活动</dc:title>
+<dc:subject>城中村改造：从传统村落到都市社区的重生</dc:subject>
+<dc:description>旧村改造至今仍在进行中，尚未搬迁的村民在北寺居委会参加活动。</dc:description>
+<dc:source>2023年实地调研时所拍</dc:source>
+</rdf:Description></rdf:RDF>

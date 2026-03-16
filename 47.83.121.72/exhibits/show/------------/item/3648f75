@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="364" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/exhibits/show/------------/item/364?output=omeka-xml" accessDate="2026-03-16T18:48:39+08:00">
+  <fileContainer>
+    <file fileId="482">
+      <src>http://47.83.121.72/files/original/8eb42a89a514af098647aec6b95ac3ae.png</src>
+      <authentication>4cd85b210897a414918496759764a4f6</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="562">
+              <text>因河而生：天穆村历史地理溯源</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="563">
+              <text>村民穆瑞信手绘，王敬善、穆瑞良、王志麟对原图航拍后，天津大学建筑系毕业生刘春孟转换</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="564">
+              <text>20世纪50年代天穆村村落图</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="565">
+              <text>雍正九年（1731），穆家庄、天齐庙两村属天津府天津县。光绪三十年（1904），直隶总督衙门设天津县四乡巡警总局，穆家庄、天齐庙村属北乡巡警总局四所第十九区辖。1937年8月至1945年8月，属日僞天津特别市八区；1945年9月至1946年1月，中共冀中区天津工作委员会决定设立天津县，穆家庄、天齐庙村属天津县四区辖；1946年3月，属国民党政府天津市三区辖。1949年1月天津解放后，三区政府派冯文林进驻穆家庄、天齐庙村，领导两村全面工作。1949年4月，分别建立村公所。1951年两村合并，村公所重新组合。</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="2">
+      <name>因河而生：天穆村历史地理溯源</name>
+    </tag>
+    <tag tagId="1">
+      <name>枕河而居：寺坊周边的家园与烟火</name>
+    </tag>
+  </tagContainer>
+</item>

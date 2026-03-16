@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/show/506?output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T18:46:19+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/show/506?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/show/1?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/show/505?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/show/507?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/show/524?output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/506</id>
+    <title><![CDATA[穆成宽1935年在天津市青年会主办的公开脚踏车赛获冠军]]></title>
+    <updated>2026-02-05T21:33:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/506"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/01d2d40edc26eaf2f24daf45b39b715b.png" type="image/png" length="566099"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="水陆竞秀：民族体育展荣光"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">穆成宽1935年在天津市青年会主办的公开脚踏车赛获冠军</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">《青年会主办脚踏车赛昨举行观衆万余人极一时之盛冠军男穆成宽女林秀莲》，《大公报》天津版，1935年05月27日，第八版。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

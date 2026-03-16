@@ -1,0 +1,9 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://47.83.121.72/items/show/509">
+<dc:title>罗金龙在天津市公开男女游泳赛中获得六十单程冠军</dc:title>
+<dc:source>《公开游泳赛昨举行男女各组几均为穆氏天下六十单程罗金龙冠军》，《大公报》天津版，1947年9月1日，第五版。</dc:source>
+</rdf:Description></rdf:RDF>

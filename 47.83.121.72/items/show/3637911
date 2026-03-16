@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/show/363?output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T18:47:33+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/show/363?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/show/1?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="http://47.83.121.72/items/show/362?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/show/364?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/show/524?output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/363</id>
+    <title><![CDATA[1958年4月北郊区区划图]]></title>
+    <summary><![CDATA[雍正九年（1731），穆家庄、天齐庙两村属天津府天津县。光绪三十年（1904），直隶总督衙门设天津县四乡巡警总局，穆家庄、天齐庙村属北乡巡警总局四所第十九区辖。1937年8月至1945年8月，属日僞天津特别市八区；1945年9月至1946年1月，中共冀中区天津工作委员会决定设立天津县，穆家庄、天齐庙村属天津县四区辖；1946年3月，属国民党政府天津市三区辖。1949年1月天津解放后，三区政府派冯文林进驻穆家庄、天齐庙村，领导两村全面工作。1949年4月，分别建立村公所。1951年两村合并，村公所重新组合。]]></summary>
+    <updated>2026-02-05T16:21:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/363"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/1abdf633153a4584354616d5155ddd4a.png" type="image/png" length="166439"/>
+    <category term="因河而生：天穆村历史地理溯源"/>
+    <category term="枕河而居：寺坊周边的家园与烟火"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">1958年4月北郊区区划图</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>描述</h3>
+                    <div class="element-text">雍正九年（1731），穆家庄、天齐庙两村属天津府天津县。光绪三十年（1904），直隶总督衙门设天津县四乡巡警总局，穆家庄、天齐庙村属北乡巡警总局四所第十九区辖。1937年8月至1945年8月，属日僞天津特别市八区；1945年9月至1946年1月，中共冀中区天津工作委员会决定设立天津县，穆家庄、天齐庙村属天津县四区辖；1946年3月，属国民党政府天津市三区辖。1949年1月天津解放后，三区政府派冯文林进驻穆家庄、天齐庙村，领导两村全面工作。1949年4月，分别建立村公所。1951年两村合并，村公所重新组合。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第36页。</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>主题</h3>
+                    <div class="element-text">因河而生：天穆村历史地理溯源</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

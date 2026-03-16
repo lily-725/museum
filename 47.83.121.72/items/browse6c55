@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://47.83.121.72/items/browse?page=1&amp;sort_field=added&amp;sort_dir=d&amp;output=atom</id>
+  <title><![CDATA[泊岸·生根——天穆六百年]]></title>
+  <subtitle><![CDATA[本展览将带您走进天穆——一个因运河蜿蜒而孕育，因舟车辐辏而兴盛，因信仰与生活而丰盈的独特家园。它不仅是一部村落的变迁史，更是一部浓缩的、关于“安居”与“远行”、“坚守”与“生长”的永恒叙事。 ]]></subtitle>
+  <author>
+    <name><![CDATA[liuyi]]></name>
+  </author>
+  <updated>2026-03-16T19:25:24+08:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://47.83.121.72/items/browse?page=1&amp;sort_field=added&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/1?page=1&amp;sort_field=added&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/2?page=1&amp;sort_field=added&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://47.83.121.72/items/browse/page/12?page=1&amp;sort_field=added&amp;sort_dir=d&amp;output=atom"/>
+  <entry>
+    <id>http://47.83.121.72/items/show/524</id>
+    <title><![CDATA[《津门保甲图说》相关记载]]></title>
+    <updated>2026-02-05T21:53:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/524"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/1b0f2eeebed57699fb062607528cf905.png" type="image/png" length="1022138"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/d7361bc57f1d293f7c7507b8b0896cdd.png" type="image/png" length="209117"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/0cec4f53df3a3488590a484bb66fa813.png" type="image/png" length="258363"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/13a3aa5813950f54fc4897fe0a590bae.png" type="image/png" length="98571"/>
+    <category term="水运舟行：北运河上帆影长"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">《津门保甲图说》相关记载</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">《津门保甲图说》清道光二十六年刻本</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/523</id>
+    <title><![CDATA[《津门保甲图说》中的天穆村地理位置]]></title>
+    <updated>2026-02-05T21:53:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/523"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/7f181974c093cbaefbc0837ed9d8f55e.png" type="image/png" length="2015471"/>
+    <category term="水运舟行：北运河上帆影长"/>
+    <category term="舟车辐辏：水陆交汇处的行旅生计"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">《津门保甲图说》中的天穆村地理位置</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">《津门保甲图说》清道光二十六年刻本</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/522</id>
+    <title><![CDATA[天穆民族书画院常任理事马俊发作品《昔日天穆美景》]]></title>
+    <updated>2026-02-05T21:33:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/522"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/2f0ace1161f03d9a7ae29e34e3483333.png" type="image/png" length="250978"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">天穆民族书画院常任理事马俊发作品《昔日天穆美景》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">马俊发：《马俊发文稿集》，内部出版，第79页。</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/521</id>
+    <title><![CDATA[第七届“天穆杯”书画展在天津北方文化艺术品交易中心开幕]]></title>
+    <updated>2026-02-05T21:33:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/521"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/19461ecf1baed38fa6f7dbf56dda1954.png" type="image/png" length="451945"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">第七届“天穆杯”书画展在天津北方文化艺术品交易中心开幕</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">《第七届“天穆杯”书画展在天津开幕 尽显民族风情》，天津美术网，<br />
+https://mp.weixin.qq.com/s/YQPBZTCNuffXvzQLR9VQZQ</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/520</id>
+    <title><![CDATA[赵鸿桐《三国演义开篇词》]]></title>
+    <updated>2026-02-05T21:33:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/520"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/d71df3fe1a541eac2d31f0bac6c65074.png" type="image/png" length="306105"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">赵鸿桐《三国演义开篇词》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">村民刘玉森保存</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/519</id>
+    <title><![CDATA[穆少伯《咏华山》]]></title>
+    <updated>2026-02-05T21:33:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/519"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/bcf7812dc4147b93a9f04c3567247ca3.png" type="image/png" length="668339"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">穆少伯《咏华山》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">村民穆少伯保存</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/518</id>
+    <title><![CDATA[《华岳问道》]]></title>
+    <updated>2026-02-05T21:33:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/518"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/2875a155acca27982a4e2b73c105f645.png" type="image/png" length="3548987"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">《华岳问道》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">《熔铸古今—王心刚中国画作品展》</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/517</id>
+    <title><![CDATA[《秋山图》部分截图]]></title>
+    <updated>2026-02-05T21:33:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/517"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/71579a66d69c4ba0c31f6e070426cc42.png" type="image/png" length="337535"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">《秋山图》部分截图</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">【献礼70周年】 当代艺术名家王心刚《秋山图卷》—画系列欣赏<br />
+https://www.163.com/dy/article/EOANGQEJ053791RU.html</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/516</id>
+    <title><![CDATA[折子戏《大保国》]]></title>
+    <updated>2026-02-05T21:33:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/516"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/748a419d1131f53995d4271bdefc9d3e.png" type="image/png" length="229330"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">折子戏《大保国》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">天穆镇京剧团</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://47.83.121.72/items/show/515</id>
+    <title><![CDATA[房玉霞演唱天津时调《幸福晚年》]]></title>
+    <updated>2026-02-05T21:33:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="http://47.83.121.72/items/show/515"/>
+    <link rel="enclosure" href="http://47.83.121.72/files/original/4c0abd555f81f05eea902602d7be4950.png" type="image/png" length="398343"/>
+    <category term="新月下的成长：科学教育与文艺体育"/>
+    <category term="艺彩纷呈：曲艺与书画"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>标题</h3>
+                    <div class="element-text">房玉霞演唱天津时调《幸福晚年》</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>来源</h3>
+                    <div class="element-text">天穆镇公衆号https://mp.weixin.qq.com/s/E7FM6B2ernCqd0cfPemktA</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

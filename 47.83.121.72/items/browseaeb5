@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://47.83.121.72/items/browse?tags=%E6%96%B0%E6%9C%88%E4%B8%8B%E7%9A%84%E6%88%90%E9%95%BF%EF%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2%E4%B8%8E%E6%96%87%E8%89%BA%E4%BD%93%E8%82%B2&amp;page=2&amp;sort_field=Dublin+Core%2CTitle&amp;output=omeka-xml" accessDate="2026-03-16T19:15:49+08:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>2</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>28</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="502" public="1" featured="0">
+    <fileContainer>
+      <file fileId="654">
+        <src>http://47.83.121.72/files/original/5c07b2174d6a1dbfa034db560298f3d7.png</src>
+        <authentication>f6b4933f6384b83f7f4e775f1a493a3b</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1003">
+                <text>天穆小学校史馆</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1004">
+                <text>天穆小学历任校长</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="16">
+        <name>新学育人：从小学到职校</name>
+      </tag>
+      <tag tagId="14">
+        <name>新月下的成长：科学教育与文艺体育</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="503" public="1" featured="0">
+    <fileContainer>
+      <file fileId="655">
+        <src>http://47.83.121.72/files/original/e4ca8a2ce1f231d572a6bb0447376972.png</src>
+        <authentication>71ca6fb43516e802131382739fb9c57f</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1005">
+                <text>2023年实地调研时所拍</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1006">
+                <text>天穆小学附属幼儿园</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="16">
+        <name>新学育人：从小学到职校</name>
+      </tag>
+      <tag tagId="14">
+        <name>新月下的成长：科学教育与文艺体育</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="522" public="1" featured="0">
+    <fileContainer>
+      <file fileId="674">
+        <src>http://47.83.121.72/files/original/2f0ace1161f03d9a7ae29e34e3483333.png</src>
+        <authentication>9093fd45ce19d5d1e1e51c956f60a48e</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1043">
+                <text>马俊发：《马俊发文稿集》，内部出版，第79页。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1044">
+                <text>天穆民族书画院常任理事马俊发作品《昔日天穆美景》</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="14">
+        <name>新月下的成长：科学教育与文艺体育</name>
+      </tag>
+      <tag tagId="18">
+        <name>艺彩纷呈：曲艺与书画</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="512" public="1" featured="0">
+    <fileContainer>
+      <file fileId="664">
+        <src>http://47.83.121.72/files/original/05ab53002587f28800360b6613e84b95.png</src>
+        <authentication>8ddafcf02d6aaaadf9c5dc133d0126dc</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1023">
+                <text>魏积良主编：《历史的记忆——天穆村村落变迁图说》，北京：中国文化出版社，2024年，第107页。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1024">
+                <text>天穆花键队参加各种比赛荣获的奖状、奖杯等</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="14">
+        <name>新月下的成长：科学教育与文艺体育</name>
+      </tag>
+      <tag tagId="17">
+        <name>水陆竞秀：民族体育展荣光</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="515" public="1" featured="0">
+    <fileContainer>
+      <file fileId="667">
+        <src>http://47.83.121.72/files/original/4c0abd555f81f05eea902602d7be4950.png</src>
+        <authentication>303ffeef009fdda99a3ec8bfaaf9acec</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1029">
+                <text>天穆镇公衆号https://mp.weixin.qq.com/s/E7FM6B2ernCqd0cfPemktA</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1030">
+                <text>房玉霞演唱天津时调《幸福晚年》</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="14">
+        <name>新月下的成长：科学教育与文艺体育</name>
+      </tag>
+      <tag tagId="18">
+        <name>艺彩纷呈：曲艺与书画</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="516" public="1" featured="0">
+    <fileContainer>
+      <file fileId="668">
+        <src>http://47.83.121.72/files/original/748a419d1131f53995d4271bdefc9d3e.png</src>
+        <authentication>0fd5f7d17b634391f7173a884f91f98b</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1031">
+                <text>天穆镇京剧团</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1032">
+                <text>折子戏《大保国》</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="14">
+        <name>新月下的成长：科学教育与文艺体育</name>
+      </tag>
+      <tag tagId="18">
+        <name>艺彩纷呈：曲艺与书画</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="497" public="1" featured="0">
+    <fileContainer>
+      <file fileId="649">
+        <src>http://47.83.121.72/files/original/dd9dc0c98dc0253ddf68ec9620814c57.png</src>
+        <authentication>39d8a47f69b3ccc39a3eff575c32341c</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="993">
+                <text>魏积良主编：《天穆清真南寺简史》，北京：中国文化出版社，2018年，第32页。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="994">
+                <text>村民穆怀有绘天齐庙村经房子草图，房屋五间</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="15">
+        <name>古训新芽：私塾与经堂教育</name>
+      </tag>
+      <tag tagId="14">
+        <name>新月下的成长：科学教育与文艺体育</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="495" public="1" featured="0">
+    <fileContainer>
+      <file fileId="647">
+        <src>http://47.83.121.72/files/original/8fff65d761bac8056b17a0e558b03fc1.png</src>
+        <authentication>1fc184c0d29a5e54c221b9e9ecd7204d</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="989">
+                <text>2023年实地调研时所拍</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="990">
+                <text>王德舆后人王同善介绍书房相关情况</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="15">
+        <name>古训新芽：私塾与经堂教育</name>
+      </tag>
+      <tag tagId="14">
+        <name>新月下的成长：科学教育与文艺体育</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="513" public="1" featured="0">
+    <fileContainer>
+      <file fileId="665">
+        <src>http://47.83.121.72/files/original/5b71b4038b831b657bd79dd6879ffdaf.png</src>
+        <authentication>ab1813fdd63037781a5b8ca329d13381</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1025">
+                <text>央视网CCTV7 《花毽王 穆丹》专题片
+https://tv.cctv.com/2010/08/01/VIDE2vDPjMemgUK48BU8YIzs100801.shtml</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1026">
+                <text>穆丹，曾将花毽带进了2008年北京奥运会表演。</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="14">
+        <name>新月下的成长：科学教育与文艺体育</name>
+      </tag>
+      <tag tagId="17">
+        <name>水陆竞秀：民族体育展荣光</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="519" public="1" featured="0">
+    <fileContainer>
+      <file fileId="671">
+        <src>http://47.83.121.72/files/original/bcf7812dc4147b93a9f04c3567247ca3.png</src>
+        <authentication>cad17d9afa39f718297d6e9f30f37965</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1037">
+                <text>村民穆少伯保存</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1038">
+                <text>穆少伯《咏华山》</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="14">
+        <name>新月下的成长：科学教育与文艺体育</name>
+      </tag>
+      <tag tagId="18">
+        <name>艺彩纷呈：曲艺与书画</name>
+      </tag>
+    </tagContainer>
+  </item>
+</itemContainer>
